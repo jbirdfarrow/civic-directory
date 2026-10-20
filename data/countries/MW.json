@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MW",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mw-wikidata-q7176020",
+      "name": "Wikidata: Peter Mutharika",
+      "url": "https://www.wikidata.org/wiki/Q7176020",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Malawi (Q1020), rank ontology#preferred"
+    },
+    {
+      "id": "mw-wikidata-q16202782",
+      "name": "Wikidata: Lazarus Chakwera",
+      "url": "https://www.wikidata.org/wiki/Q16202782",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Malawi (Q1020), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mw-head-of-state-1",
+      "jurisdictionCode": "MW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q15921529",
+        "title": "President of Malawi",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Peter Mutharika",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mw-wikidata-q7176020"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mw-wikidata-q7176020"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mw-head-of-government-1",
+      "jurisdictionCode": "MW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q15921529",
+        "title": "President of Malawi",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Lazarus Chakwera",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mw-wikidata-q16202782"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mw-wikidata-q16202782"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

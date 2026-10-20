@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "KP",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "kp-wikidata-q56226",
+      "name": "Wikidata: Kim Jong-un",
+      "url": "https://www.wikidata.org/wiki/Q56226",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on North Korea (Q423), rank ontology#preferred, start 2011-12-30"
+    },
+    {
+      "id": "kp-wikidata-q16905281",
+      "name": "Wikidata: Pak Thae-song",
+      "url": "https://www.wikidata.org/wiki/Q16905281",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on North Korea (Q423), rank ontology#preferred, start 2024-12-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "kp-head-of-state-1",
+      "jurisdictionCode": "KP",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q56876342",
+        "title": "Supreme Leader of North Korea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2011-12-30",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Kim Jong-un",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kp-wikidata-q56226"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kp-wikidata-q56226"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "kp-head-of-government-1",
+      "jurisdictionCode": "KP",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q7240364",
+        "title": "Premier of North Korea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-12-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Pak Thae-song",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kp-wikidata-q16905281"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kp-wikidata-q16905281"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

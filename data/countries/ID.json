@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ID",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "id-wikidata-q2107268",
+      "name": "Wikidata: Prabowo Subianto",
+      "url": "https://www.wikidata.org/wiki/Q2107268",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Indonesia (Q252), rank ontology#preferred, start 2024-10-20"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "id-head-of-state-1",
+      "jurisdictionCode": "ID",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q11755916",
+        "title": "President of Indonesia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-10-20",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Prabowo Subianto",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "id-wikidata-q2107268"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "id-wikidata-q2107268"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ME",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "me-wikidata-q104417661",
+      "name": "Wikidata: Jakov Milatović",
+      "url": "https://www.wikidata.org/wiki/Q104417661",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Montenegro (Q236), rank ontology#preferred, start 2023-05-20"
+    },
+    {
+      "id": "me-wikidata-q101225458",
+      "name": "Wikidata: Milojko Spajić",
+      "url": "https://www.wikidata.org/wiki/Q101225458",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Montenegro (Q236), rank ontology#preferred, start 2023-10-31"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "me-head-of-state-1",
+      "jurisdictionCode": "ME",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1149153",
+        "title": "President of Montenegro",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-05-20",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Jakov Milatović",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "me-wikidata-q104417661"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "me-wikidata-q104417661"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "me-head-of-government-1",
+      "jurisdictionCode": "ME",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2353252",
+        "title": "Prime Minister of Montenegro",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-10-31",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Milojko Spajić",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "me-wikidata-q101225458"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "me-wikidata-q101225458"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

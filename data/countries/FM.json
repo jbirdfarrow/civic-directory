@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "FM",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "fm-wikidata-q7984081",
+      "name": "Wikidata: Wesley Simina",
+      "url": "https://www.wikidata.org/wiki/Q7984081",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Federated States of Micronesia (Q702), rank ontology#preferred, start 2023-01-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "fm-head-of-state-1",
+      "jurisdictionCode": "FM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30133416",
+        "title": "President of the Federated States of Micronesia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Wesley Simina",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "fm-wikidata-q7984081"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fm-wikidata-q7984081"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

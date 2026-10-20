@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "GQ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "gq-wikidata-q57385",
+      "name": "Wikidata: Teodoro Obiang",
+      "url": "https://www.wikidata.org/wiki/Q57385",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Equatorial Guinea (Q983), rank ontology#preferred, start 1979-08-03"
+    },
+    {
+      "id": "gq-wikidata-q129263796",
+      "name": "Wikidata: Manuel Osa Nsue Nsua",
+      "url": "https://www.wikidata.org/wiki/Q129263796",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Equatorial Guinea (Q983), rank ontology#preferred, start 2024-08-17"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "gq-head-of-state-1",
+      "jurisdictionCode": "GQ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19058522",
+        "title": "President of Equatorial Guinea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1979-08-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Teodoro Obiang",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gq-wikidata-q57385"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gq-wikidata-q57385"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "gq-head-of-government-1",
+      "jurisdictionCode": "GQ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2351213",
+        "title": "Prime Minister of Equatorial Guinea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-08-17",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Manuel Osa Nsue Nsua",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gq-wikidata-q129263796"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gq-wikidata-q129263796"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

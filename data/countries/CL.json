@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CL",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cl-wikidata-q5937916",
+      "name": "Wikidata: José Antonio Kast",
+      "url": "https://www.wikidata.org/wiki/Q5937916",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Chile (Q298), rank ontology#preferred, start 2026-03-11"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cl-head-of-state-1",
+      "jurisdictionCode": "CL",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q466956",
+        "title": "President of Chile",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-03-11",
+        "termEnd": null
+      },
+      "person": {
+        "name": "José Antonio Kast",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cl-wikidata-q5937916"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cl-wikidata-q5937916"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

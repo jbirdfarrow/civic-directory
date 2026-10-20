@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MZ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mz-wikidata-q97058466",
+      "name": "Wikidata: Daniel Chapo",
+      "url": "https://www.wikidata.org/wiki/Q97058466",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Mozambique (Q1029), rank ontology#preferred, start 2025-01-15"
+    },
+    {
+      "id": "mz-wikidata-q6761049",
+      "name": "Wikidata: Maria Benvinda Levy",
+      "url": "https://www.wikidata.org/wiki/Q6761049",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Mozambique (Q1029), rank ontology#preferred, start 2025-01-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mz-head-of-state-1",
+      "jurisdictionCode": "MZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q18565665",
+        "title": "President of Mozambique",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-01-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Daniel Chapo",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mz-wikidata-q97058466"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mz-wikidata-q97058466"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mz-head-of-government-1",
+      "jurisdictionCode": "MZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100629",
+        "title": "Prime Minister of Mozambique",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-01-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Maria Benvinda Levy",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mz-wikidata-q6761049"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mz-wikidata-q6761049"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

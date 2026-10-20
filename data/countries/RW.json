@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "RW",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "rw-wikidata-q1231345",
+      "name": "Wikidata: Paul Kagame",
+      "url": "https://www.wikidata.org/wiki/Q1231345",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Rwanda (Q1037), rank ontology#normal, start 2000-03-24"
+    },
+    {
+      "id": "rw-wikidata-q135454730",
+      "name": "Wikidata: Justin Nsengiyumva",
+      "url": "https://www.wikidata.org/wiki/Q135454730",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Rwanda (Q1037), rank ontology#preferred, start 2025-07-25"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "rw-head-of-state-1",
+      "jurisdictionCode": "RW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q12374379",
+        "title": "President of Rwanda",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2000-03-24",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Paul Kagame",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "rw-wikidata-q1231345"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "rw-wikidata-q1231345"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "rw-head-of-government-1",
+      "jurisdictionCode": "RW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2590706",
+        "title": "Prime Minister of Rwanda",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-07-25",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Justin Nsengiyumva",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "rw-wikidata-q135454730"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "rw-wikidata-q135454730"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

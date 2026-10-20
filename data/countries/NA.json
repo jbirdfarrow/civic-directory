@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "NA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "na-wikidata-q527020",
+      "name": "Wikidata: Netumbo Nandi-Ndaitwah",
+      "url": "https://www.wikidata.org/wiki/Q527020",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Namibia (Q1030), rank ontology#preferred, start 2025-03-21"
+    },
+    {
+      "id": "na-wikidata-q5360975",
+      "name": "Wikidata: Elijah Ngurare",
+      "url": "https://www.wikidata.org/wiki/Q5360975",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Namibia (Q1030), rank ontology#preferred, start 2025-03-21"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "na-head-of-state-1",
+      "jurisdictionCode": "NA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q647198",
+        "title": "President of the Republic of Namibia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-03-21",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Netumbo Nandi-Ndaitwah",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "na-wikidata-q527020"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "na-wikidata-q527020"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "na-head-of-government-1",
+      "jurisdictionCode": "NA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1333976",
+        "title": "Prime Minister of the Republic of Namibia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-03-21",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Elijah Ngurare",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "na-wikidata-q5360975"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "na-wikidata-q5360975"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

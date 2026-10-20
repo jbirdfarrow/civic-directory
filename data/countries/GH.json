@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "GH",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "gh-wikidata-q50678",
+      "name": "Wikidata: John Mahama",
+      "url": "https://www.wikidata.org/wiki/Q50678",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Ghana (Q117), rank ontology#preferred, start 2025-01-07"
+    },
+    {
+      "id": "gh-wikidata-q718601",
+      "name": "Wikidata: Nana Akufo-Addo",
+      "url": "https://www.wikidata.org/wiki/Q718601",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Ghana (Q117), rank ontology#normal, start 2017-01-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "gh-head-of-state-1",
+      "jurisdictionCode": "GH",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2672728",
+        "title": "President of Ghana",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-01-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "John Mahama",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gh-wikidata-q50678"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gh-wikidata-q50678"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "gh-head-of-government-1",
+      "jurisdictionCode": "GH",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2672728",
+        "title": "President of Ghana",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2017-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nana Akufo-Addo",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gh-wikidata-q718601"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gh-wikidata-q718601"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

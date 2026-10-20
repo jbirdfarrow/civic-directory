@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SL",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sl-wikidata-q283829",
+      "name": "Wikidata: Julius Maada Bio",
+      "url": "https://www.wikidata.org/wiki/Q283829",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Sierra Leone (Q1044), rank ontology#preferred, start 2018-04-04"
+    },
+    {
+      "id": "sl-wikidata-q23728768",
+      "name": "Wikidata: David Sengeh",
+      "url": "https://www.wikidata.org/wiki/Q23728768",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Sierra Leone (Q1044), rank ontology#preferred, start 2023-01-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sl-head-of-state-1",
+      "jurisdictionCode": "SL",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q890010",
+        "title": "President of Sierra Leone",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-04-04",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Julius Maada Bio",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sl-wikidata-q283829"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sl-wikidata-q283829"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "sl-head-of-government-1",
+      "jurisdictionCode": "SL",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q56295070",
+        "title": "Chief Minister of Sierra Leone",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "David Sengeh",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sl-wikidata-q23728768"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sl-wikidata-q23728768"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

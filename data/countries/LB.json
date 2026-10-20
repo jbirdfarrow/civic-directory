@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LB",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "lb-wikidata-q29033962",
+      "name": "Wikidata: Joseph Aoun",
+      "url": "https://www.wikidata.org/wiki/Q29033962",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Lebanon (Q822), rank ontology#preferred, start 2025-01-09"
+    },
+    {
+      "id": "lb-wikidata-q638463",
+      "name": "Wikidata: Nawaf Salam",
+      "url": "https://www.wikidata.org/wiki/Q638463",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Lebanon (Q822), rank ontology#preferred, start 2025-02-08"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "lb-head-of-state-1",
+      "jurisdictionCode": "LB",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q22001564",
+        "title": "President of Lebanon",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-01-09",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Joseph Aoun",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lb-wikidata-q29033962"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lb-wikidata-q29033962"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "lb-head-of-government-1",
+      "jurisdictionCode": "LB",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14915225",
+        "title": "Prime Minister of Lebanon",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-02-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nawaf Salam",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lb-wikidata-q638463"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lb-wikidata-q638463"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

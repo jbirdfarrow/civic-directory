@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "IL",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "il-wikidata-q983258",
+      "name": "Wikidata: Isaac Herzog",
+      "url": "https://www.wikidata.org/wiki/Q983258",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Israel (Q801), rank ontology#preferred, start 2021-07-07"
+    },
+    {
+      "id": "il-wikidata-q43723",
+      "name": "Wikidata: Benjamin Netanyahu",
+      "url": "https://www.wikidata.org/wiki/Q43723",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Israel (Q801), rank ontology#preferred, start 2022-12-29"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "il-head-of-state-1",
+      "jurisdictionCode": "IL",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q327948",
+        "title": "President of Israel",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-07-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Isaac Herzog",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "il-wikidata-q983258"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "il-wikidata-q983258"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "il-head-of-government-1",
+      "jurisdictionCode": "IL",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q208487",
+        "title": "Prime Minister of Israel",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-12-29",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Benjamin Netanyahu",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "il-wikidata-q43723"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "il-wikidata-q43723"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

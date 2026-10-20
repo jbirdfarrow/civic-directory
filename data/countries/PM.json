@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "PM",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "pm-wikidata-q3501568",
+      "name": "Wikidata: Stéphane Artano",
+      "url": "https://www.wikidata.org/wiki/Q3501568",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Saint Pierre and Miquelon (Q34617), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "pm-head-of-government-1",
+      "jurisdictionCode": "PM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Head of Government",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Stéphane Artano",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pm-wikidata-q3501568"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pm-wikidata-q3501568"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

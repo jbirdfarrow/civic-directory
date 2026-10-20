@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TO",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "to-wikidata-q208497",
+      "name": "Wikidata: Tupou VI of Tonga",
+      "url": "https://www.wikidata.org/wiki/Q208497",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Tonga (Q678), rank ontology#normal, start 2012-03-18"
+    },
+    {
+      "id": "to-wikidata-q5437258",
+      "name": "Wikidata: Fatafehi Fakafānua, 8th Lord Fakafānua",
+      "url": "https://www.wikidata.org/wiki/Q5437258",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Tonga (Q678), rank ontology#preferred, start 2025-12-18"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "to-head-of-state-1",
+      "jurisdictionCode": "TO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q42298576",
+        "title": "Monarch of Tonga",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2012-03-18",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tupou VI of Tonga",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "to-wikidata-q208497"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "to-wikidata-q208497"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "to-head-of-government-1",
+      "jurisdictionCode": "TO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q915636",
+        "title": "Prime Minister of Tonga",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-12-18",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Fatafehi Fakafānua, 8th Lord Fakafānua",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "to-wikidata-q5437258"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "to-wikidata-q5437258"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

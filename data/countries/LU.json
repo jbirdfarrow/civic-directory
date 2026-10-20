@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "lu-wikidata-q161319",
+      "name": "Wikidata: Guillaume V, Grand Duke of Luxembourg",
+      "url": "https://www.wikidata.org/wiki/Q161319",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Luxembourg (Q32), rank ontology#preferred, start 2025-10-03"
+    },
+    {
+      "id": "lu-wikidata-q592101",
+      "name": "Wikidata: Luc Frieden",
+      "url": "https://www.wikidata.org/wiki/Q592101",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Luxembourg (Q32), rank ontology#preferred, start 2023-11-17"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "lu-head-of-state-1",
+      "jurisdictionCode": "LU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3276071",
+        "title": "Grand Duke of Luxembourg",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-10-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Guillaume V, Grand Duke of Luxembourg",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lu-wikidata-q161319"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lu-wikidata-q161319"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "lu-head-of-government-1",
+      "jurisdictionCode": "LU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1344632",
+        "title": "Prime Minister of Luxembourg",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-11-17",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Luc Frieden",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lu-wikidata-q592101"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lu-wikidata-q592101"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

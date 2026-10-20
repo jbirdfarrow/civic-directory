@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BY",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "by-wikidata-q2866",
+      "name": "Wikidata: Alexander Lukashenka",
+      "url": "https://www.wikidata.org/wiki/Q2866",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Belarus (Q184), rank ontology#normal, start 1994-07-20"
+    },
+    {
+      "id": "by-wikidata-q56235580",
+      "name": "Wikidata: Alexander Turchyn",
+      "url": "https://www.wikidata.org/wiki/Q56235580",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Belarus (Q184), rank ontology#preferred, start 2025-03-10"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "by-head-of-state-1",
+      "jurisdictionCode": "BY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1049659",
+        "title": "President of Belarus",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1994-07-20",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Alexander Lukashenka",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "by-wikidata-q2866"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "by-wikidata-q2866"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "by-head-of-government-1",
+      "jurisdictionCode": "BY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q12379704",
+        "title": "Prime Minister of Belarus",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-03-10",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Alexander Turchyn",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "by-wikidata-q56235580"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "by-wikidata-q56235580"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

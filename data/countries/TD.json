@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TD",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "td-wikidata-q16206405",
+      "name": "Wikidata: Mahamat Déby",
+      "url": "https://www.wikidata.org/wiki/Q16206405",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Chad (Q657), rank ontology#preferred"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "td-head-of-state-1",
+      "jurisdictionCode": "TD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q28003132",
+        "title": "President of Chad",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mahamat Déby",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "td-wikidata-q16206405"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "td-wikidata-q16206405"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

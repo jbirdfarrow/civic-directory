@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "DO",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "do-wikidata-q16594097",
+      "name": "Wikidata: Luis Abinader",
+      "url": "https://www.wikidata.org/wiki/Q16594097",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Dominican Republic (Q786), rank ontology#preferred, start 2020-08-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "do-head-of-state-1",
+      "jurisdictionCode": "DO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q607982",
+        "title": "President of the Dominican Republic",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-08-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Luis Abinader",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "do-wikidata-q16594097"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "do-wikidata-q16594097"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

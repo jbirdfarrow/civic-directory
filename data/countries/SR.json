@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SR",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sr-wikidata-q440403",
+      "name": "Wikidata: Jennifer Geerlings-Simons",
+      "url": "https://www.wikidata.org/wiki/Q440403",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Suriname (Q730), rank ontology#normal, start 2025-07-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sr-head-of-state-1",
+      "jurisdictionCode": "SR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q878254",
+        "title": "President of Suriname",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-07-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Jennifer Geerlings-Simons",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sr-wikidata-q440403"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sr-wikidata-q440403"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "JO",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "jo-wikidata-q57464",
+      "name": "Wikidata: Abdullah II of Jordan",
+      "url": "https://www.wikidata.org/wiki/Q57464",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Jordan (Q810), rank ontology#normal"
+    },
+    {
+      "id": "jo-wikidata-q97011032",
+      "name": "Wikidata: Jafar Hassan",
+      "url": "https://www.wikidata.org/wiki/Q97011032",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Jordan (Q810), rank ontology#preferred, start 2024-09-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "jo-head-of-state-1",
+      "jurisdictionCode": "JO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14625123",
+        "title": "King of Jordan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abdullah II of Jordan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "jo-wikidata-q57464"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jo-wikidata-q57464"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "jo-head-of-government-1",
+      "jurisdictionCode": "JO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q7243300",
+        "title": "Prime Minister of Jordan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-09-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Jafar Hassan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "jo-wikidata-q97011032"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jo-wikidata-q97011032"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

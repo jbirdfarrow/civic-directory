@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SY",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sy-wikidata-q7934206",
+      "name": "Wikidata: Ahmed al-Sharaa",
+      "url": "https://www.wikidata.org/wiki/Q7934206",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Syria (Q858), rank ontology#normal, start 2025-01-29"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sy-head-of-state-1",
+      "jurisdictionCode": "SY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q648464",
+        "title": "President of Syria",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-01-29",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ahmed al-Sharaa",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sy-wikidata-q7934206"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sy-wikidata-q7934206"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

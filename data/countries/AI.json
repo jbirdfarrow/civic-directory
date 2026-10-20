@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "AI",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ai-wikidata-q98079363",
+      "name": "Wikidata: Ellis Webster",
+      "url": "https://www.wikidata.org/wiki/Q98079363",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Anguilla (Q25228), rank ontology#preferred, start 2020-06-30"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ai-head-of-government-1",
+      "jurisdictionCode": "AI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q493655",
+        "title": "Premier of Anguilla",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-06-30",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ellis Webster",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ai-wikidata-q98079363"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ai-wikidata-q98079363"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

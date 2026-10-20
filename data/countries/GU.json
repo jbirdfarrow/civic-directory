@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "GU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "gu-wikidata-q21066675",
+      "name": "Wikidata: Lou Leon Guerrero",
+      "url": "https://www.wikidata.org/wiki/Q21066675",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Guam (Q16635), rank ontology#preferred, start 2019-01-07"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "gu-head-of-government-1",
+      "jurisdictionCode": "GU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q20804488",
+        "title": "Governor of Guam",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-01-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Lou Leon Guerrero",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gu-wikidata-q21066675"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gu-wikidata-q21066675"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

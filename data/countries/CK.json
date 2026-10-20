@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CK",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ck-wikidata-q43274",
+      "name": "Wikidata: Charles III",
+      "url": "https://www.wikidata.org/wiki/Q43274",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Cook Islands (Q26988), rank ontology#preferred, start 2022-09-08"
+    },
+    {
+      "id": "ck-wikidata-q6766871",
+      "name": "Wikidata: Mark Brown",
+      "url": "https://www.wikidata.org/wiki/Q6766871",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Cook Islands (Q26988), rank ontology#preferred, start 2020-10-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ck-head-of-state-1",
+      "jurisdictionCode": "CK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14931517",
+        "title": "Monarch of New Zealand",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-09-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Charles III",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ck-wikidata-q43274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ck-wikidata-q43274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ck-head-of-government-1",
+      "jurisdictionCode": "CK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q39593532",
+        "title": "Prime Minister of the Cook Islands",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-10-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mark Brown",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ck-wikidata-q6766871"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ck-wikidata-q6766871"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

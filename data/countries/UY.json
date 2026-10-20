@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "UY",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "uy-wikidata-q19946921",
+      "name": "Wikidata: Yamandú Orsi",
+      "url": "https://www.wikidata.org/wiki/Q19946921",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Uruguay (Q77), rank ontology#preferred, start 2025-03-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "uy-head-of-state-1",
+      "jurisdictionCode": "UY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q4524807",
+        "title": "President of Uruguay",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-03-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Yamandú Orsi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "uy-wikidata-q19946921"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "uy-wikidata-q19946921"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "AE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ae-wikidata-q1951896",
+      "name": "Wikidata: Mohammed Bin Zayed Al Nahyan",
+      "url": "https://www.wikidata.org/wiki/Q1951896",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on United Arab Emirates (Q878), rank ontology#preferred, start 2022-05-14"
+    },
+    {
+      "id": "ae-wikidata-q57655",
+      "name": "Wikidata: Mohammed bin Rashid Al Maktoum",
+      "url": "https://www.wikidata.org/wiki/Q57655",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on United Arab Emirates (Q878), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ae-head-of-state-1",
+      "jurisdictionCode": "AE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q955006",
+        "title": "President of the United Arab Emirates",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-05-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohammed Bin Zayed Al Nahyan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ae-wikidata-q1951896"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ae-wikidata-q1951896"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ae-head-of-government-1",
+      "jurisdictionCode": "AE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30101519",
+        "title": "Prime Minister of the United Arab Emirates",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohammed bin Rashid Al Maktoum",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ae-wikidata-q57655"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ae-wikidata-q57655"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TM",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "tm-wikidata-q51874548",
+      "name": "Wikidata: Serdar Berdimuhamedow",
+      "url": "https://www.wikidata.org/wiki/Q51874548",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Turkmenistan (Q874), rank ontology#preferred, start 2022-03-19"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "tm-head-of-state-1",
+      "jurisdictionCode": "TM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1155759",
+        "title": "President of Turkmenistan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-03-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Serdar Berdimuhamedow",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "tm-wikidata-q51874548"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "tm-wikidata-q51874548"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

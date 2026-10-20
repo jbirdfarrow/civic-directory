@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "AT",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "at-wikidata-q78869",
+      "name": "Wikidata: Alexander Van der Bellen",
+      "url": "https://www.wikidata.org/wiki/Q78869",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Austria (Q40), rank ontology#preferred, start 2017-01-26"
+    },
+    {
+      "id": "at-wikidata-q64576653",
+      "name": "Wikidata: Christian Stocker",
+      "url": "https://www.wikidata.org/wiki/Q64576653",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Austria (Q40), rank ontology#preferred, start 2025-03-03"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "at-head-of-state-1",
+      "jurisdictionCode": "AT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q475658",
+        "title": "President of Austria",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2017-01-26",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Alexander Van der Bellen",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "at-wikidata-q78869"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "at-wikidata-q78869"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "at-head-of-government-1",
+      "jurisdictionCode": "AT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1006398",
+        "title": "Federal Chancellor of Austria",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-03-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Christian Stocker",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "at-wikidata-q64576653"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "at-wikidata-q64576653"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

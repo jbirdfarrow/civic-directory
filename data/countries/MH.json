@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MH",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mh-wikidata-q20090884",
+      "name": "Wikidata: Hilda Heine",
+      "url": "https://www.wikidata.org/wiki/Q20090884",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Marshall Islands (Q709), rank ontology#preferred, start 2024-01-03"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mh-head-of-state-1",
+      "jurisdictionCode": "MH",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3736673",
+        "title": "President of the Marshall Islands",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-01-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Hilda Heine",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mh-wikidata-q20090884"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mh-wikidata-q20090884"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

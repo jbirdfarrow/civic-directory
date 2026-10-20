@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BI",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bi-wikidata-q27329764",
+      "name": "Wikidata: Évariste Ndayishimiye",
+      "url": "https://www.wikidata.org/wiki/Q27329764",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Burundi (Q967), rank ontology#preferred, start 2020-06-18"
+    },
+    {
+      "id": "bi-wikidata-q107136851",
+      "name": "Wikidata: Gervais Ndirakobuca",
+      "url": "https://www.wikidata.org/wiki/Q107136851",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Burundi (Q967), rank ontology#preferred, start 2023-09-07"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bi-head-of-state-1",
+      "jurisdictionCode": "BI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19057827",
+        "title": "President of Burundi",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-06-18",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Évariste Ndayishimiye",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bi-wikidata-q27329764"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bi-wikidata-q27329764"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "bi-head-of-government-1",
+      "jurisdictionCode": "BI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q52728003",
+        "title": "Prime Minister of Burundi",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-09-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Gervais Ndirakobuca",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bi-wikidata-q107136851"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bi-wikidata-q107136851"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CO",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "co-wikidata-q137204778",
+      "name": "Wikidata: Abelardo de la Espriella",
+      "url": "https://www.wikidata.org/wiki/Q137204778",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Colombia (Q739), rank ontology#preferred, start 2026-08-07"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "co-head-of-state-1",
+      "jurisdictionCode": "CO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q853475",
+        "title": "President of Colombia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-08-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abelardo de la Espriella",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "co-wikidata-q137204778"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "co-wikidata-q137204778"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bg-wikidata-q433338",
+      "name": "Wikidata: Iliana Iotova",
+      "url": "https://www.wikidata.org/wiki/Q433338",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Bulgaria (Q219), rank ontology#preferred, start 2026-01-23"
+    },
+    {
+      "id": "bg-wikidata-q26257557",
+      "name": "Wikidata: Rumen Radev",
+      "url": "https://www.wikidata.org/wiki/Q26257557",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Bulgaria (Q219), rank ontology#preferred, start 2026-05-08"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bg-head-of-state-1",
+      "jurisdictionCode": "BG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14946265",
+        "title": "President of Bulgaria",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-01-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Iliana Iotova",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bg-wikidata-q433338"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bg-wikidata-q433338"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "bg-head-of-government-1",
+      "jurisdictionCode": "BG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q4404583",
+        "title": "Prime Minister of Bulgaria",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-05-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Rumen Radev",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bg-wikidata-q26257557"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bg-wikidata-q26257557"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

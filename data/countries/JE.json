@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "JE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "je-wikidata-q43274",
+      "name": "Wikidata: Charles III",
+      "url": "https://www.wikidata.org/wiki/Q43274",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Jersey (Q785), rank ontology#normal, start 2022-09-08"
+    },
+    {
+      "id": "je-wikidata-q16196549",
+      "name": "Wikidata: John Le Fondré",
+      "url": "https://www.wikidata.org/wiki/Q16196549",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Jersey (Q785), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "je-head-of-state-1",
+      "jurisdictionCode": "JE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q9134365",
+        "title": "Monarch of the United Kingdom",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-09-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Charles III",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "je-wikidata-q43274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "je-wikidata-q43274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "je-head-of-government-1",
+      "jurisdictionCode": "JE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1281624",
+        "title": "Chief Minister of Jersey",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "John Le Fondré",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "je-wikidata-q16196549"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "je-wikidata-q16196549"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CF",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cf-wikidata-q57758",
+      "name": "Wikidata: Faustin-Archange Touadéra",
+      "url": "https://www.wikidata.org/wiki/Q57758",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Central African Republic (Q929), rank ontology#preferred, start 2016-03-30"
+    },
+    {
+      "id": "cf-wikidata-q88310768",
+      "name": "Wikidata: Félix Moloua",
+      "url": "https://www.wikidata.org/wiki/Q88310768",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Central African Republic (Q929), rank ontology#preferred, start 2022-02-07"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cf-head-of-state-1",
+      "jurisdictionCode": "CF",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q15710848",
+        "title": "President of the Central African Republic",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2016-03-30",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Faustin-Archange Touadéra",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cf-wikidata-q57758"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cf-wikidata-q57758"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "cf-head-of-government-1",
+      "jurisdictionCode": "CF",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q16773091",
+        "title": "Prime Minister of the Central African Republic",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-02-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Félix Moloua",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cf-wikidata-q88310768"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cf-wikidata-q88310768"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

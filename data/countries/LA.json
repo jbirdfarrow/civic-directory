@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "la-wikidata-q58323",
+      "name": "Wikidata: Thongloun Sisoulith",
+      "url": "https://www.wikidata.org/wiki/Q58323",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Laos (Q819), rank ontology#normal"
+    },
+    {
+      "id": "la-wikidata-q104914585",
+      "name": "Wikidata: Sonexay Siphandone",
+      "url": "https://www.wikidata.org/wiki/Q104914585",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Laos (Q819), rank ontology#preferred, start 2022-12-30"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "la-head-of-state-1",
+      "jurisdictionCode": "LA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q904139",
+        "title": "President of Laos",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Thongloun Sisoulith",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "la-wikidata-q58323"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "la-wikidata-q58323"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "la-head-of-government-1",
+      "jurisdictionCode": "LA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q778651",
+        "title": "Prime Minister of Laos",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-12-30",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sonexay Siphandone",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "la-wikidata-q104914585"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "la-wikidata-q104914585"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

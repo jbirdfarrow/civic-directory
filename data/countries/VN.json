@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "VN",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "vn-wikidata-q10831196",
+      "name": "Wikidata: Tô Lâm",
+      "url": "https://www.wikidata.org/wiki/Q10831196",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Vietnam (Q881), rank ontology#preferred, start 2024-05-22"
+    },
+    {
+      "id": "vn-wikidata-q10806940",
+      "name": "Wikidata: Phạm Minh Chính",
+      "url": "https://www.wikidata.org/wiki/Q10806940",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Vietnam (Q881), rank ontology#preferred, start 2021-04-05"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "vn-head-of-state-1",
+      "jurisdictionCode": "VN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q866680",
+        "title": "President of Vietnam",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-05-22",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tô Lâm",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "vn-wikidata-q10831196"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "vn-wikidata-q10831196"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "vn-head-of-government-1",
+      "jurisdictionCode": "VN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1043568",
+        "title": "Prime Minister of Vietnam",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-04-05",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Phạm Minh Chính",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "vn-wikidata-q10806940"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "vn-wikidata-q10806940"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

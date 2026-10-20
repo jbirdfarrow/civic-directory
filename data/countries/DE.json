@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "DE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "de-wikidata-q76658",
+      "name": "Wikidata: Frank-Walter Steinmeier",
+      "url": "https://www.wikidata.org/wiki/Q76658",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Germany (Q183), rank ontology#preferred, start 2017-03-19"
+    },
+    {
+      "id": "de-wikidata-q566257",
+      "name": "Wikidata: Friedrich Merz",
+      "url": "https://www.wikidata.org/wiki/Q566257",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Germany (Q183), rank ontology#preferred, start 2025-05-06"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "de-head-of-state-1",
+      "jurisdictionCode": "DE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q25223",
+        "title": "President of Germany",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2017-03-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Frank-Walter Steinmeier",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "de-wikidata-q76658"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "de-wikidata-q76658"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "de-head-of-government-1",
+      "jurisdictionCode": "DE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q4970706",
+        "title": "Federal Chancellor of Germany",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-05-06",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Friedrich Merz",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "de-wikidata-q566257"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "de-wikidata-q566257"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

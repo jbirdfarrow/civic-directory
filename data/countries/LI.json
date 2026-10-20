@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LI",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "li-wikidata-q57454",
+      "name": "Wikidata: Hans-Adam II, Prince of Liechtenstein",
+      "url": "https://www.wikidata.org/wiki/Q57454",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Liechtenstein (Q347), rank ontology#normal, start 1989-11-13"
+    },
+    {
+      "id": "li-wikidata-q129676165",
+      "name": "Wikidata: Brigitte Haas",
+      "url": "https://www.wikidata.org/wiki/Q129676165",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Liechtenstein (Q347), rank ontology#preferred, start 2025-04-10"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "li-head-of-state-1",
+      "jurisdictionCode": "LI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q63415597",
+        "title": "Prince of Lichtenstein",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1989-11-13",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Hans-Adam II, Prince of Liechtenstein",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "li-wikidata-q57454"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "li-wikidata-q57454"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "li-head-of-government-1",
+      "jurisdictionCode": "LI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q62396915",
+        "title": "Prime Minister of Liechtenstein",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-04-10",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Brigitte Haas",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "li-wikidata-q129676165"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "li-wikidata-q129676165"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

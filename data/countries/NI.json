@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "NI",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ni-wikidata-q57402",
+      "name": "Wikidata: Daniel Ortega",
+      "url": "https://www.wikidata.org/wiki/Q57402",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Nicaragua (Q811), rank ontology#normal, start 2007-01-10"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ni-head-of-state-1",
+      "jurisdictionCode": "NI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q852448",
+        "title": "President of Nicaragua",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2007-01-10",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Daniel Ortega",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ni-wikidata-q57402"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ni-wikidata-q57402"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

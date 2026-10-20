@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "RU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ru-wikidata-q7747",
+      "name": "Wikidata: Vladimir Putin",
+      "url": "https://www.wikidata.org/wiki/Q7747",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Russia (Q159), rank ontology#preferred, start 2012-05-07"
+    },
+    {
+      "id": "ru-wikidata-q4298520",
+      "name": "Wikidata: Mikhail Mishustin",
+      "url": "https://www.wikidata.org/wiki/Q4298520",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Russia (Q159), rank ontology#preferred, start 2020-01-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ru-head-of-state-1",
+      "jurisdictionCode": "RU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q218295",
+        "title": "President of Russia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2012-05-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Vladimir Putin",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ru-wikidata-q7747"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ru-wikidata-q7747"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ru-head-of-government-1",
+      "jurisdictionCode": "RU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q842386",
+        "title": "Prime Minister of Russia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-01-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mikhail Mishustin",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ru-wikidata-q4298520"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ru-wikidata-q4298520"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

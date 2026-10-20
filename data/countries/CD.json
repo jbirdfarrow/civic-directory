@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CD",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cd-wikidata-q29032770",
+      "name": "Wikidata: Félix Tshisekedi",
+      "url": "https://www.wikidata.org/wiki/Q29032770",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Democratic Republic of the Congo (Q974), rank ontology#preferred, start 2019-01-24"
+    },
+    {
+      "id": "cd-wikidata-q63967715",
+      "name": "Wikidata: Ilunga Ilunkamba Sylvestre",
+      "url": "https://www.wikidata.org/wiki/Q63967715",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Democratic Republic of the Congo (Q974), rank ontology#preferred, start 2019-09-07"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cd-head-of-state-1",
+      "jurisdictionCode": "CD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3409199",
+        "title": "President of the Democratic Republic of the Congo",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-01-24",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Félix Tshisekedi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cd-wikidata-q29032770"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cd-wikidata-q29032770"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "cd-head-of-government-1",
+      "jurisdictionCode": "CD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3401753",
+        "title": "Prime Minister of the Democratic Republic of the Congo",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-09-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ilunga Ilunkamba Sylvestre",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cd-wikidata-q63967715"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cd-wikidata-q63967715"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

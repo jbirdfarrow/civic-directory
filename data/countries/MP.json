@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MP",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mp-wikidata-q108413751",
+      "name": "Wikidata: David M. Apatang",
+      "url": "https://www.wikidata.org/wiki/Q108413751",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Northern Mariana Islands (Q16644), rank ontology#preferred, start 2025-07-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mp-head-of-government-1",
+      "jurisdictionCode": "MP",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q20804538",
+        "title": "Governor of the Northern Mariana Islands",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-07-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "David M. Apatang",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mp-wikidata-q108413751"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mp-wikidata-q108413751"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

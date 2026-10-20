@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "se-wikidata-q45068",
+      "name": "Wikidata: Carl XVI Gustaf of Sweden",
+      "url": "https://www.wikidata.org/wiki/Q45068",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Sweden (Q34), rank ontology#preferred, start 1973-09-15"
+    },
+    {
+      "id": "se-wikidata-q1780398",
+      "name": "Wikidata: Ulf Kristersson",
+      "url": "https://www.wikidata.org/wiki/Q1780398",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Sweden (Q34), rank ontology#preferred, start 2022-10-18"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "se-head-of-state-1",
+      "jurisdictionCode": "SE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1268572",
+        "title": "Monarch of Sweden",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1973-09-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Carl XVI Gustaf of Sweden",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "se-wikidata-q45068"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "se-wikidata-q45068"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "se-head-of-government-1",
+      "jurisdictionCode": "SE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q687075",
+        "title": "Prime Minister of Sweden",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-10-18",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ulf Kristersson",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "se-wikidata-q1780398"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "se-wikidata-q1780398"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

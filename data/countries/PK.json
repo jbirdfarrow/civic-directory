@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "PK",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "pk-wikidata-q57373",
+      "name": "Wikidata: Asif Ali Zardari",
+      "url": "https://www.wikidata.org/wiki/Q57373",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Pakistan (Q843), rank ontology#preferred, start 2024-01-01"
+    },
+    {
+      "id": "pk-wikidata-q2096387",
+      "name": "Wikidata: Shehbaz Sharif",
+      "url": "https://www.wikidata.org/wiki/Q2096387",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Pakistan (Q843), rank ontology#preferred, start 2022-04-11"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "pk-head-of-state-1",
+      "jurisdictionCode": "PK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q473984",
+        "title": "President of Pakistan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Asif Ali Zardari",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pk-wikidata-q57373"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pk-wikidata-q57373"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "pk-head-of-government-1",
+      "jurisdictionCode": "PK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q735575",
+        "title": "Prime Minister of Pakistan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-04-11",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Shehbaz Sharif",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pk-wikidata-q2096387"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pk-wikidata-q2096387"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "EC",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ec-wikidata-q112075625",
+      "name": "Wikidata: Daniel Noboa",
+      "url": "https://www.wikidata.org/wiki/Q112075625",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Ecuador (Q736), rank ontology#normal, start 2023-11-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ec-head-of-state-1",
+      "jurisdictionCode": "EC",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q732562",
+        "title": "President of Ecuador",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-11-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Daniel Noboa",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ec-wikidata-q112075625"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ec-wikidata-q112075625"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

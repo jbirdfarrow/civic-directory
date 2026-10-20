@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mu-wikidata-q131403499",
+      "name": "Wikidata: Dharam Gokhool",
+      "url": "https://www.wikidata.org/wiki/Q131403499",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Mauritius (Q1027), rank ontology#preferred, start 2024-12-06"
+    },
+    {
+      "id": "mu-wikidata-q3401447",
+      "name": "Wikidata: Pravind Jugnauth",
+      "url": "https://www.wikidata.org/wiki/Q3401447",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Mauritius (Q1027), rank ontology#normal, start 2017-01-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mu-head-of-state-1",
+      "jurisdictionCode": "MU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3286988",
+        "title": "President of Mauritius",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-12-06",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Dharam Gokhool",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mu-wikidata-q131403499"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mu-wikidata-q131403499"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mu-head-of-government-1",
+      "jurisdictionCode": "MU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1826694",
+        "title": "Prime Minister of Mauritius",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2017-01-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Pravind Jugnauth",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mu-wikidata-q3401447"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mu-wikidata-q3401447"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

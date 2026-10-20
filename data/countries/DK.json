@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "DK",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "dk-wikidata-q1004037",
+      "name": "Wikidata: Frederik X of Denmark",
+      "url": "https://www.wikidata.org/wiki/Q1004037",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Denmark (Q35), rank ontology#preferred, start 2024-01-14"
+    },
+    {
+      "id": "dk-wikidata-q5015",
+      "name": "Wikidata: Mette Frederiksen",
+      "url": "https://www.wikidata.org/wiki/Q5015",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Denmark (Q35), rank ontology#preferred, start 2019-06-27"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "dk-head-of-state-1",
+      "jurisdictionCode": "DK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q18341329",
+        "title": "Monarch of Denmark",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-01-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Frederik X of Denmark",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "dk-wikidata-q1004037"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "dk-wikidata-q1004037"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "dk-head-of-government-1",
+      "jurisdictionCode": "DK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q795477",
+        "title": "Prime Minister of Denmark",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-06-27",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mette Frederiksen",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "dk-wikidata-q5015"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "dk-wikidata-q5015"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

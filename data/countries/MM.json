@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MM",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mm-wikidata-q3331362",
+      "name": "Wikidata: Myint Swe",
+      "url": "https://www.wikidata.org/wiki/Q3331362",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Myanmar (Q836), rank ontology#preferred, start 2021-02-01"
+    },
+    {
+      "id": "mm-wikidata-q3462649",
+      "name": "Wikidata: Min Aung Hlaing",
+      "url": "https://www.wikidata.org/wiki/Q3462649",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Myanmar (Q836), rank ontology#preferred, start 2021-02-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mm-head-of-state-1",
+      "jurisdictionCode": "MM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q887124",
+        "title": "President of Myanmar",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-02-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Myint Swe",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mm-wikidata-q3331362"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mm-wikidata-q3331362"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mm-head-of-government-1",
+      "jurisdictionCode": "MM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q105234803",
+        "title": "State Administration Council",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-02-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Min Aung Hlaing",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mm-wikidata-q3462649"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mm-wikidata-q3462649"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

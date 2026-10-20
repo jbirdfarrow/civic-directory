@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "HR",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "hr-wikidata-q57687",
+      "name": "Wikidata: Zoran Milanović",
+      "url": "https://www.wikidata.org/wiki/Q57687",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Croatia (Q224), rank ontology#preferred, start 2020-02-19"
+    },
+    {
+      "id": "hr-wikidata-q11685764",
+      "name": "Wikidata: Andrej Plenković",
+      "url": "https://www.wikidata.org/wiki/Q11685764",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Croatia (Q224), rank ontology#preferred, start 2016-10-19"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "hr-head-of-state-1",
+      "jurisdictionCode": "HR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q268984",
+        "title": "President of Croatia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-02-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Zoran Milanović",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "hr-wikidata-q57687"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "hr-wikidata-q57687"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "hr-head-of-government-1",
+      "jurisdictionCode": "HR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1195270",
+        "title": "Prime Minister of Croatia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2016-10-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Andrej Plenković",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "hr-wikidata-q11685764"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "hr-wikidata-q11685764"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

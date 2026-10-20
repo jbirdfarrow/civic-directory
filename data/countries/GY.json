@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "GY",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "gy-wikidata-q64840184",
+      "name": "Wikidata: Irfaan Ali",
+      "url": "https://www.wikidata.org/wiki/Q64840184",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Guyana (Q734), rank ontology#preferred, start 2020-08-02"
+    },
+    {
+      "id": "gy-wikidata-q98053664",
+      "name": "Wikidata: Hugo Chávez",
+      "url": "https://www.wikidata.org/wiki/Q98053664",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Guyana (Q734), rank ontology#preferred, start 2020-08-02"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "gy-head-of-state-1",
+      "jurisdictionCode": "GY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q685925",
+        "title": "President of Guyana",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-08-02",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Irfaan Ali",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gy-wikidata-q64840184"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gy-wikidata-q64840184"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "gy-head-of-government-1",
+      "jurisdictionCode": "GY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q376006",
+        "title": "Prime Minister of Guyana",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-08-02",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Hugo Chávez",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gy-wikidata-q98053664"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gy-wikidata-q98053664"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

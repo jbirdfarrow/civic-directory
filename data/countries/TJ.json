@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TJ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "tj-wikidata-q57366",
+      "name": "Wikidata: Emomali Rahmon",
+      "url": "https://www.wikidata.org/wiki/Q57366",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Tajikistan (Q863), rank ontology#normal"
+    },
+    {
+      "id": "tj-wikidata-q15222839",
+      "name": "Wikidata: Kokhir Rasulzoda",
+      "url": "https://www.wikidata.org/wiki/Q15222839",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Tajikistan (Q863), rank ontology#preferred, start 2013-11-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "tj-head-of-state-1",
+      "jurisdictionCode": "TJ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1044136",
+        "title": "President of Tajikistan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Emomali Rahmon",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "tj-wikidata-q57366"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "tj-wikidata-q57366"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "tj-head-of-government-1",
+      "jurisdictionCode": "TJ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2734978",
+        "title": "Prime Minister of Tajikistan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2013-11-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Kokhir Rasulzoda",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "tj-wikidata-q15222839"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "tj-wikidata-q15222839"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CM",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cm-wikidata-q57272",
+      "name": "Wikidata: Paul Biya",
+      "url": "https://www.wikidata.org/wiki/Q57272",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Cameroon (Q1009), rank ontology#preferred, start 1982-11-06"
+    },
+    {
+      "id": "cm-wikidata-q60441515",
+      "name": "Wikidata: Joseph Ngute",
+      "url": "https://www.wikidata.org/wiki/Q60441515",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Cameroon (Q1009), rank ontology#preferred, start 2019-01-04"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cm-head-of-state-1",
+      "jurisdictionCode": "CM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19158914",
+        "title": "President of Cameroon",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1982-11-06",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Paul Biya",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cm-wikidata-q57272"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cm-wikidata-q57272"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "cm-head-of-government-1",
+      "jurisdictionCode": "CM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q17051823",
+        "title": "Prime Minister of Cameroon",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-01-04",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Joseph Ngute",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cm-wikidata-q60441515"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cm-wikidata-q60441515"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

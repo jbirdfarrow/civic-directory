@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CZ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cz-wikidata-q2080040",
+      "name": "Wikidata: Petr Pavel",
+      "url": "https://www.wikidata.org/wiki/Q2080040",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Czech Republic (Q213), rank ontology#preferred, start 2023-03-09"
+    },
+    {
+      "id": "cz-wikidata-q10819807",
+      "name": "Wikidata: Andrej Babiš",
+      "url": "https://www.wikidata.org/wiki/Q10819807",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Czech Republic (Q213), rank ontology#preferred, start 2025-12-09"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cz-head-of-state-1",
+      "jurisdictionCode": "CZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1819381",
+        "title": "President of the Czech Republic",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-03-09",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Petr Pavel",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cz-wikidata-q2080040"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cz-wikidata-q2080040"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "cz-head-of-government-1",
+      "jurisdictionCode": "CZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3409229",
+        "title": "Prime Minister of the Czech Republic",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-12-09",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Andrej Babiš",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cz-wikidata-q10819807"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cz-wikidata-q10819807"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

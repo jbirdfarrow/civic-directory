@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "PG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "pg-wikidata-q43274",
+      "name": "Wikidata: Charles III",
+      "url": "https://www.wikidata.org/wiki/Q43274",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Papua New Guinea (Q691), rank ontology#normal, start 2022-09-08"
+    },
+    {
+      "id": "pg-wikidata-q6138903",
+      "name": "Wikidata: James Marape",
+      "url": "https://www.wikidata.org/wiki/Q6138903",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Papua New Guinea (Q691), rank ontology#preferred, start 2019-05-30"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "pg-head-of-state-1",
+      "jurisdictionCode": "PG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q34518124",
+        "title": "Monarch of Papua New Guinea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-09-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Charles III",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pg-wikidata-q43274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pg-wikidata-q43274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "pg-head-of-government-1",
+      "jurisdictionCode": "PG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1074656",
+        "title": "Prime Minister of Papua New Guinea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-05-30",
+        "termEnd": null
+      },
+      "person": {
+        "name": "James Marape",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pg-wikidata-q6138903"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pg-wikidata-q6138903"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

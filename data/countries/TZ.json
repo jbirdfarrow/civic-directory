@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TZ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "tz-wikidata-q16193885",
+      "name": "Wikidata: Samia Suluhu Hassan",
+      "url": "https://www.wikidata.org/wiki/Q16193885",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Tanzania (Q924), rank ontology#normal, start 2021-03-19"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "tz-head-of-state-1",
+      "jurisdictionCode": "TZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q7241291",
+        "title": "President of Tanzania",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-03-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Samia Suluhu Hassan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "tz-wikidata-q16193885"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "tz-wikidata-q16193885"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

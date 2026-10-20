@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BZ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bz-wikidata-q43274",
+      "name": "Wikidata: Charles III",
+      "url": "https://www.wikidata.org/wiki/Q43274",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Belize (Q242), rank ontology#preferred, start 2022-09-08"
+    },
+    {
+      "id": "bz-wikidata-q6266369",
+      "name": "Wikidata: Johnny Briceño",
+      "url": "https://www.wikidata.org/wiki/Q6266369",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Belize (Q242), rank ontology#preferred, start 2020-11-12"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bz-head-of-state-1",
+      "jurisdictionCode": "BZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q34517433",
+        "title": "Monarch of Belize",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-09-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Charles III",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bz-wikidata-q43274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bz-wikidata-q43274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "bz-head-of-government-1",
+      "jurisdictionCode": "BZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q862638",
+        "title": "Prime Minister of Belize",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-11-12",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Johnny Briceño",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bz-wikidata-q6266369"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bz-wikidata-q6266369"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

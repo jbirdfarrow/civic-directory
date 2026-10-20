@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "DJ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "dj-wikidata-q57390",
+      "name": "Wikidata: Ismail Omar Guelleh",
+      "url": "https://www.wikidata.org/wiki/Q57390",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Djibouti (Q977), rank ontology#normal, start 1999-05-08"
+    },
+    {
+      "id": "dj-wikidata-q10522744",
+      "name": "Wikidata: Abdoulkader Kamil Mohamed",
+      "url": "https://www.wikidata.org/wiki/Q10522744",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Djibouti (Q977), rank ontology#normal, start 2013-04-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "dj-head-of-state-1",
+      "jurisdictionCode": "DJ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19058485",
+        "title": "President of Djibouti",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1999-05-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ismail Omar Guelleh",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "dj-wikidata-q57390"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "dj-wikidata-q57390"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "dj-head-of-government-1",
+      "jurisdictionCode": "DJ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100591",
+        "title": "Prime Minister of Djibouti",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2013-04-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abdoulkader Kamil Mohamed",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "dj-wikidata-q10522744"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "dj-wikidata-q10522744"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

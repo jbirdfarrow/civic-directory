@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "PS",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ps-wikidata-q127998",
+      "name": "Wikidata: Mahmoud Abbas",
+      "url": "https://www.wikidata.org/wiki/Q127998",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Palestine (Q219060), rank ontology#preferred, start 2005-01-15"
+    },
+    {
+      "id": "ps-wikidata-q20423278",
+      "name": "Wikidata: Mohammad Mustafa",
+      "url": "https://www.wikidata.org/wiki/Q20423278",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Palestine (Q219060), rank ontology#preferred"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ps-head-of-state-1",
+      "jurisdictionCode": "PS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3911022",
+        "title": "President of the State of Palestine",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2005-01-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mahmoud Abbas",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ps-wikidata-q127998"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ps-wikidata-q127998"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ps-head-of-government-1",
+      "jurisdictionCode": "PS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q15041211",
+        "title": "Prime Minister of the State of Palestine",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohammad Mustafa",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ps-wikidata-q20423278"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ps-wikidata-q20423278"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "be-wikidata-q155004",
+      "name": "Wikidata: Philippe of Belgium",
+      "url": "https://www.wikidata.org/wiki/Q155004",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Belgium (Q31), rank ontology#preferred, start 2013-07-21"
+    },
+    {
+      "id": "be-wikidata-q336599",
+      "name": "Wikidata: Bart De Wever",
+      "url": "https://www.wikidata.org/wiki/Q336599",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Belgium (Q31), rank ontology#preferred, start 2025-02-03"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "be-head-of-state-1",
+      "jurisdictionCode": "BE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q13592862",
+        "title": "King of the Belgians",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2013-07-21",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Philippe of Belgium",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "be-wikidata-q155004"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "be-wikidata-q155004"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "be-head-of-government-1",
+      "jurisdictionCode": "BE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q213107",
+        "title": "Prime Minister of Belgium",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-02-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Bart De Wever",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "be-wikidata-q336599"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "be-wikidata-q336599"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

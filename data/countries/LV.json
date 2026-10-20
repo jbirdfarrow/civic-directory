@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LV",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "lv-wikidata-q3047551",
+      "name": "Wikidata: Edgars Rinkēvičs",
+      "url": "https://www.wikidata.org/wiki/Q3047551",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Latvia (Q211), rank ontology#preferred, start 2023-07-08"
+    },
+    {
+      "id": "lv-wikidata-q115604300",
+      "name": "Wikidata: Andris Kulbergs",
+      "url": "https://www.wikidata.org/wiki/Q115604300",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Latvia (Q211), rank ontology#preferred, start 2026-05-28"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "lv-head-of-state-1",
+      "jurisdictionCode": "LV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q218014",
+        "title": "President of Latvia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-07-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Edgars Rinkēvičs",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lv-wikidata-q3047551"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lv-wikidata-q3047551"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "lv-head-of-government-1",
+      "jurisdictionCode": "LV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q369500",
+        "title": "Prime Minister of Latvia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-05-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Andris Kulbergs",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lv-wikidata-q115604300"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lv-wikidata-q115604300"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

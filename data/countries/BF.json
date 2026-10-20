@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BF",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bf-wikidata-q114341246",
+      "name": "Wikidata: Ibrahim Traoré",
+      "url": "https://www.wikidata.org/wiki/Q114341246",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Burkina Faso (Q965), rank ontology#preferred, start 2022-10-06"
+    },
+    {
+      "id": "bf-wikidata-q114835874",
+      "name": "Wikidata: Apollinaire Joachim Kyélem de Tambèla",
+      "url": "https://www.wikidata.org/wiki/Q114835874",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Burkina Faso (Q965), rank ontology#preferred, start 2022-01-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bf-head-of-state-1",
+      "jurisdictionCode": "BF",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q20995488",
+        "title": "President of Burkina Faso",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-10-06",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ibrahim Traoré",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bf-wikidata-q114341246"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bf-wikidata-q114341246"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "bf-head-of-government-1",
+      "jurisdictionCode": "BF",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q28133105",
+        "title": "Prime Minister of Burkina Faso",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-01-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Apollinaire Joachim Kyélem de Tambèla",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bf-wikidata-q114835874"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bf-wikidata-q114835874"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

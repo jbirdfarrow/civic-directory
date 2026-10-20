@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "GA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ga-wikidata-q122067521",
+      "name": "Wikidata: Brice Clotaire Oligui Nguema",
+      "url": "https://www.wikidata.org/wiki/Q122067521",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Gabon (Q1000), rank ontology#preferred, start 2023-08-30"
+    },
+    {
+      "id": "ga-wikidata-q57856",
+      "name": "Wikidata: Raymond Ndong Sima",
+      "url": "https://www.wikidata.org/wiki/Q57856",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Gabon (Q1000), rank ontology#normal, start 2023-09-07"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ga-head-of-state-1",
+      "jurisdictionCode": "GA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19109718",
+        "title": "President of Gabon",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-08-30",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Brice Clotaire Oligui Nguema",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ga-wikidata-q122067521"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ga-wikidata-q122067521"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ga-head-of-government-1",
+      "jurisdictionCode": "GA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100607",
+        "title": "Prime Minister of Gabon",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-09-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Raymond Ndong Sima",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ga-wikidata-q57856"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ga-wikidata-q57856"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

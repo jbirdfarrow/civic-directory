@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "GT",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "gt-wikidata-q107254030",
+      "name": "Wikidata: Bernardo Arévalo de León",
+      "url": "https://www.wikidata.org/wiki/Q107254030",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Guatemala (Q774), rank ontology#normal, start 2024-01-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "gt-head-of-state-1",
+      "jurisdictionCode": "GT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q6085537",
+        "title": "President of Guatemala",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-01-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Bernardo Arévalo de León",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gt-wikidata-q107254030"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gt-wikidata-q107254030"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

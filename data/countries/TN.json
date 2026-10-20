@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TN",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "tn-wikidata-q16120878",
+      "name": "Wikidata: Kais Saied",
+      "url": "https://www.wikidata.org/wiki/Q16120878",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Tunisia (Q948), rank ontology#preferred, start 2019-10-23"
+    },
+    {
+      "id": "tn-wikidata-q108892374",
+      "name": "Wikidata: Sarra Zaafrani",
+      "url": "https://www.wikidata.org/wiki/Q108892374",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Tunisia (Q948), rank ontology#preferred, start 2025-03-21"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "tn-head-of-state-1",
+      "jurisdictionCode": "TN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14911897",
+        "title": "President of Tunisia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-10-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Kais Saied",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "tn-wikidata-q16120878"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "tn-wikidata-q16120878"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "tn-head-of-government-1",
+      "jurisdictionCode": "TN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1064106",
+        "title": "Prime Minister of Tunisia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-03-21",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sarra Zaafrani",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "tn-wikidata-q108892374"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "tn-wikidata-q108892374"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

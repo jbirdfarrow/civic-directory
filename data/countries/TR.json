@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TR",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "tr-wikidata-q39259",
+      "name": "Wikidata: Recep Tayyip Erdoğan",
+      "url": "https://www.wikidata.org/wiki/Q39259",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Turkey (Q43), rank ontology#preferred, start 2014-08-28"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "tr-head-of-state-1",
+      "jurisdictionCode": "TR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1922067",
+        "title": "President of Turkey",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2014-08-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Recep Tayyip Erdoğan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "tr-wikidata-q39259"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "tr-wikidata-q39259"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

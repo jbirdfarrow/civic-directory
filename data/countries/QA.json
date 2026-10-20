@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "QA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "qa-wikidata-q1855372",
+      "name": "Wikidata: Tamim bin Hamad Al Thani",
+      "url": "https://www.wikidata.org/wiki/Q1855372",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Qatar (Q846), rank ontology#preferred, start 2013-06-25"
+    },
+    {
+      "id": "qa-wikidata-q23020336",
+      "name": "Wikidata: Mohammed bin Abdulrahman Al Thani",
+      "url": "https://www.wikidata.org/wiki/Q23020336",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Qatar (Q846), rank ontology#preferred, start 2023-01-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "qa-head-of-state-1",
+      "jurisdictionCode": "QA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q25711499",
+        "title": "Emir of the State of Qatar",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2013-06-25",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tamim bin Hamad Al Thani",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "qa-wikidata-q1855372"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "qa-wikidata-q1855372"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "qa-head-of-government-1",
+      "jurisdictionCode": "QA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100647",
+        "title": "Prime Minister of Qatar",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohammed bin Abdulrahman Al Thani",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "qa-wikidata-q23020336"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "qa-wikidata-q23020336"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MR",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mr-wikidata-q12241106",
+      "name": "Wikidata: Mohamed Ould Ghazouani",
+      "url": "https://www.wikidata.org/wiki/Q12241106",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Mauritania (Q1025), rank ontology#preferred, start 2019-08-01"
+    },
+    {
+      "id": "mr-wikidata-q66793577",
+      "name": "Wikidata: Moctar Ould Djay",
+      "url": "https://www.wikidata.org/wiki/Q66793577",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Mauritania (Q1025), rank ontology#preferred, start 2024-08-02"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mr-head-of-state-1",
+      "jurisdictionCode": "MR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q28002551",
+        "title": "President of Mauritania",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-08-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohamed Ould Ghazouani",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mr-wikidata-q12241106"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mr-wikidata-q12241106"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mr-head-of-government-1",
+      "jurisdictionCode": "MR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30101469",
+        "title": "Prime Minister of Mauritania",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-08-02",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Moctar Ould Djay",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mr-wikidata-q66793577"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mr-wikidata-q66793577"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

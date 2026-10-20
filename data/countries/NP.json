@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "NP",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "np-wikidata-q3183124",
+      "name": "Wikidata: Ram Chandra Poudel",
+      "url": "https://www.wikidata.org/wiki/Q3183124",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Nepal (Q837), rank ontology#preferred, start 2023-01-01"
+    },
+    {
+      "id": "np-wikidata-q315500",
+      "name": "Wikidata: Pushpa Kamal Dahal",
+      "url": "https://www.wikidata.org/wiki/Q315500",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Nepal (Q837), rank ontology#preferred, start 2022-12-26"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "np-head-of-state-1",
+      "jurisdictionCode": "NP",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q153756",
+        "title": "President of Nepal",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ram Chandra Poudel",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "np-wikidata-q3183124"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "np-wikidata-q3183124"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "np-head-of-government-1",
+      "jurisdictionCode": "NP",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100626",
+        "title": "Prime Minister of Nepal",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-12-26",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Pushpa Kamal Dahal",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "np-wikidata-q315500"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "np-wikidata-q315500"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

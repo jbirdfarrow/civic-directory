@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "NU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "nu-wikidata-q43274",
+      "name": "Wikidata: Charles III",
+      "url": "https://www.wikidata.org/wiki/Q43274",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Niue (Q34020), rank ontology#normal, start 2022-09-08"
+    },
+    {
+      "id": "nu-wikidata-q19876617",
+      "name": "Wikidata: Dalton Tagelagi",
+      "url": "https://www.wikidata.org/wiki/Q19876617",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Niue (Q34020), rank ontology#preferred, start 2020-06-11"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "nu-head-of-state-1",
+      "jurisdictionCode": "NU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14931517",
+        "title": "Monarch of New Zealand",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-09-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Charles III",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "nu-wikidata-q43274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "nu-wikidata-q43274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "nu-head-of-government-1",
+      "jurisdictionCode": "NU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2602784",
+        "title": "Premier of Niue",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-06-11",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Dalton Tagelagi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "nu-wikidata-q19876617"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "nu-wikidata-q19876617"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

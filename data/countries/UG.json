@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "UG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ug-wikidata-q57274",
+      "name": "Wikidata: Yoweri Museveni",
+      "url": "https://www.wikidata.org/wiki/Q57274",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Uganda (Q1036), rank ontology#normal, start 1986-01-29"
+    },
+    {
+      "id": "ug-wikidata-q62481397",
+      "name": "Wikidata: Nabbanja Robinah",
+      "url": "https://www.wikidata.org/wiki/Q62481397",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Uganda (Q1036), rank ontology#normal, start 2021-06-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ug-head-of-state-1",
+      "jurisdictionCode": "UG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q18204367",
+        "title": "President of Uganda",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1986-01-29",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Yoweri Museveni",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ug-wikidata-q57274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ug-wikidata-q57274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ug-head-of-government-1",
+      "jurisdictionCode": "UG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2462330",
+        "title": "Prime Minister of Uganda",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-06-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nabbanja Robinah",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ug-wikidata-q62481397"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ug-wikidata-q62481397"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

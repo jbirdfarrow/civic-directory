@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MK",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mk-wikidata-q12277168",
+      "name": "Wikidata: Gordana Siljanovska-Davkova",
+      "url": "https://www.wikidata.org/wiki/Q12277168",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on North Macedonia (Q221), rank ontology#preferred, start 2024-05-12"
+    },
+    {
+      "id": "mk-wikidata-q46675558",
+      "name": "Wikidata: Hristijan Mickoski",
+      "url": "https://www.wikidata.org/wiki/Q46675558",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on North Macedonia (Q221), rank ontology#preferred, start 2024-06-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mk-head-of-state-1",
+      "jurisdictionCode": "MK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q678492",
+        "title": "President of North Macedonia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-05-12",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Gordana Siljanovska-Davkova",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mk-wikidata-q12277168"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mk-wikidata-q12277168"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mk-head-of-government-1",
+      "jurisdictionCode": "MK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1776220",
+        "title": "Prime Minister of North Macedonia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-06-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Hristijan Mickoski",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mk-wikidata-q46675558"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mk-wikidata-q46675558"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

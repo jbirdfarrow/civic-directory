@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "NG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ng-wikidata-q3510872",
+      "name": "Wikidata: Bola Tinubu",
+      "url": "https://www.wikidata.org/wiki/Q3510872",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Nigeria (Q1033), rank ontology#preferred, start 2023-05-29"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ng-head-of-state-1",
+      "jurisdictionCode": "NG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q500282",
+        "title": "President of Nigeria",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-05-29",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Bola Tinubu",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ng-wikidata-q3510872"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ng-wikidata-q3510872"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SN",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sn-wikidata-q124382437",
+      "name": "Wikidata: Bassirou Diomaye Faye",
+      "url": "https://www.wikidata.org/wiki/Q124382437",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Senegal (Q1041), rank ontology#preferred, start 2024-04-02"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sn-head-of-state-1",
+      "jurisdictionCode": "SN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19116034",
+        "title": "President of Senegal",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-04-02",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Bassirou Diomaye Faye",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sn-wikidata-q124382437"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sn-wikidata-q124382437"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

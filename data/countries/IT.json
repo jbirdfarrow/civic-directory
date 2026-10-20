@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "IT",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "it-wikidata-q3956186",
+      "name": "Wikidata: Sergio Mattarella",
+      "url": "https://www.wikidata.org/wiki/Q3956186",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Italy (Q38), rank ontology#preferred, start 2015-02-03"
+    },
+    {
+      "id": "it-wikidata-q451791",
+      "name": "Wikidata: Giorgia Meloni",
+      "url": "https://www.wikidata.org/wiki/Q451791",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Italy (Q38), rank ontology#preferred, start 2022-10-22"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "it-head-of-state-1",
+      "jurisdictionCode": "IT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q332711",
+        "title": "President of Italy",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2015-02-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sergio Mattarella",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "it-wikidata-q3956186"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "it-wikidata-q3956186"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "it-head-of-government-1",
+      "jurisdictionCode": "IT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q796897",
+        "title": "Prime Minister of Italy",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-10-22",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Giorgia Meloni",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "it-wikidata-q451791"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "it-wikidata-q451791"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

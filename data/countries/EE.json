@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "EE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ee-wikidata-q16407395",
+      "name": "Wikidata: Ülle Madise",
+      "url": "https://www.wikidata.org/wiki/Q16407395",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Estonia (Q191), rank ontology#preferred, start 2026-10-12"
+    },
+    {
+      "id": "ee-wikidata-q1789192",
+      "name": "Wikidata: Kristen Michal",
+      "url": "https://www.wikidata.org/wiki/Q1789192",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Estonia (Q191), rank ontology#preferred, start 2024-07-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ee-head-of-state-1",
+      "jurisdictionCode": "EE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q890005",
+        "title": "President of Estonia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-10-12",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ülle Madise",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ee-wikidata-q16407395"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ee-wikidata-q16407395"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ee-head-of-government-1",
+      "jurisdictionCode": "EE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q737115",
+        "title": "Prime Minister of Estonia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-07-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Kristen Michal",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ee-wikidata-q1789192"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ee-wikidata-q1789192"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

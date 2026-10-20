@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LY",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ly-wikidata-q105319610",
+      "name": "Wikidata: Mohamed al-Menfi",
+      "url": "https://www.wikidata.org/wiki/Q105319610",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Libya (Q1016), rank ontology#normal, start 2021-03-15"
+    },
+    {
+      "id": "ly-wikidata-q105319569",
+      "name": "Wikidata: Abd al-Hamid Dbeibeh",
+      "url": "https://www.wikidata.org/wiki/Q105319569",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Libya (Q1016), rank ontology#normal, start 2021-02-05"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ly-head-of-state-1",
+      "jurisdictionCode": "LY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q102181806",
+        "title": "Chairman of the Presidential Council",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-03-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohamed al-Menfi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ly-wikidata-q105319610"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ly-wikidata-q105319610"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ly-head-of-government-1",
+      "jurisdictionCode": "LY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q15305714",
+        "title": "Prime Minister of Libya",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-02-05",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abd al-Hamid Dbeibeh",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ly-wikidata-q105319569"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ly-wikidata-q105319569"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

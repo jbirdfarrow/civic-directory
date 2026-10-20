@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ES",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "es-wikidata-q191045",
+      "name": "Wikidata: Felipe VI of Spain",
+      "url": "https://www.wikidata.org/wiki/Q191045",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Spain (Q29), rank ontology#preferred, start 2014-06-19"
+    },
+    {
+      "id": "es-wikidata-q6070218",
+      "name": "Wikidata: Pedro Sánchez",
+      "url": "https://www.wikidata.org/wiki/Q6070218",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Spain (Q29), rank ontology#preferred, start 2018-06-02"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "es-head-of-state-1",
+      "jurisdictionCode": "ES",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3847454",
+        "title": "Monarch of Spain",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2014-06-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Felipe VI of Spain",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "es-wikidata-q191045"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "es-wikidata-q191045"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "es-head-of-government-1",
+      "jurisdictionCode": "ES",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q844587",
+        "title": "Prime Minister of Spain",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-06-02",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Pedro Sánchez",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "es-wikidata-q6070218"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "es-wikidata-q6070218"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

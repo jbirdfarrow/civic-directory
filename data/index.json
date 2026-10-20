@@ -1,6 +1,166 @@
 {
   "schemaVersion": 1,
   "countries": {
+    "AD": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AF": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AI": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "AL": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AO": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "AR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "AS": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "AT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AW": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "AX": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "AZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BA": {
+      "records": 4,
+      "verified": 0,
+      "unverified": 4,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 4,
+      "nextReviewBy": null
+    },
     "BB": {
       "records": 4,
       "verified": 0,
@@ -9,6 +169,466 @@
       "disputed": 0,
       "officialEvidence": 4,
       "wikidataOnly": 0,
+      "nextReviewBy": null
+    },
+    "BD": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BF": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BH": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BI": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BJ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BN": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "BO": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "BR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "BS": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BW": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "BY": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "BZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CD": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CF": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CH": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "CI": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CK": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CL": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "CM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CN": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CO": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "CR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "CU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CV": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CW": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CY": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "CZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "DE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "DJ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "DK": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "DM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "DO": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "DZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "EC": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "EE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "EG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "ER": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "ES": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "ET": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "FI": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
       "nextReviewBy": null
     },
     "FJ": {
@@ -21,6 +641,386 @@
       "wikidataOnly": 0,
       "nextReviewBy": null
     },
+    "FK": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "FM": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "FO": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "FR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GB": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GD": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GF": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GH": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GI": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GL": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GM": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GN": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GP": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GQ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GR": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "GS": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GT": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GU": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GW": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "GY": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "HK": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "HN": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "HR": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "HT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "HU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "ID": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "IE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "IL": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "IM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "IN": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "IQ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "IR": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "IS": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "IT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "JE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
     "JM": {
       "records": 4,
       "verified": 0,
@@ -29,6 +1029,416 @@
       "disputed": 0,
       "officialEvidence": 4,
       "wikidataOnly": 0,
+      "nextReviewBy": null
+    },
+    "JO": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "JP": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KE": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "KG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KH": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KI": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "KM": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "KN": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KP": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KR": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KW": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KY": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "KZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LB": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LC": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LI": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LK": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "LS": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LV": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "LY": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MC": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MD": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "ME": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MH": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "MK": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "ML": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MN": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MO": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "MP": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "MQ": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "MR": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MS": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
       "nextReviewBy": null
     },
     "MV": {
@@ -41,6 +1451,816 @@
       "wikidataOnly": 0,
       "nextReviewBy": null
     },
+    "MW": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MY": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "MZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "NA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "NC": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "NE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "NG": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "NI": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "NL": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "NO": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "NP": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "NR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "NU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "NZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "OM": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PA": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PE": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PF": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "PH": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PK": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "PL": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "PM": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PN": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PS": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "PT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "PW": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "PY": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "QA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "RE": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "RO": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "RS": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "RU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "RW": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SA": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "SB": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SC": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "SD": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SH": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "SI": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SK": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SL": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SN": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "SO": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "SS": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "ST": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "SV": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "SX": {
+      "records": 3,
+      "verified": 0,
+      "unverified": 3,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 3,
+      "nextReviewBy": null
+    },
+    "SY": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "SZ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TC": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TD": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "TG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TH": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TJ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TL": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TM": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "TN": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TO": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TR": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "TT": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TV": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TW": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TZ": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "UA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "UG": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "US": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "UY": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "UZ": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "VA": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "VC": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "VE": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "VG": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "VI": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "VN": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "VU": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
     "WS": {
       "records": 3,
       "verified": 0,
@@ -49,6 +2269,66 @@
       "disputed": 0,
       "officialEvidence": 3,
       "wikidataOnly": 0,
+      "nextReviewBy": null
+    },
+    "XK": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "YE": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "YT": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "ZA": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
+      "nextReviewBy": null
+    },
+    "ZM": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "ZW": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
       "nextReviewBy": null
     }
   }

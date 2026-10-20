@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LK",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "lk-wikidata-q4777855",
+      "name": "Wikidata: Anura Kurankan Dissanayake",
+      "url": "https://www.wikidata.org/wiki/Q4777855",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Sri Lanka (Q854), rank ontology#preferred, start 2024-09-23"
+    },
+    {
+      "id": "lk-wikidata-q98298397",
+      "name": "Wikidata: Harini Amarasuriya",
+      "url": "https://www.wikidata.org/wiki/Q98298397",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Sri Lanka (Q854), rank ontology#preferred, start 2024-09-24"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "lk-head-of-state-1",
+      "jurisdictionCode": "LK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2914380",
+        "title": "President of Sri Lanka",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-09-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Anura Kurankan Dissanayake",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lk-wikidata-q4777855"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lk-wikidata-q4777855"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "lk-head-of-government-1",
+      "jurisdictionCode": "LK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2914380",
+        "title": "President of Sri Lanka",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-09-24",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Harini Amarasuriya",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lk-wikidata-q98298397"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lk-wikidata-q98298397"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

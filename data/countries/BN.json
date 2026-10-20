@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BN",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bn-wikidata-q57327",
+      "name": "Wikidata: Hassanal Bolkiah I of Brunei",
+      "url": "https://www.wikidata.org/wiki/Q57327",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Brunei (Q921), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bn-head-of-state-1",
+      "jurisdictionCode": "BN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q889927",
+        "title": "Sultan of Brunei Darussalam",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Hassanal Bolkiah I of Brunei",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bn-wikidata-q57327"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bn-wikidata-q57327"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

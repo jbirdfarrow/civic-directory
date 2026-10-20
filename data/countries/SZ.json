@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SZ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sz-wikidata-q57340",
+      "name": "Wikidata: Mswati III",
+      "url": "https://www.wikidata.org/wiki/Q57340",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Eswatini (Q1050), rank ontology#normal, start 1986-04-25"
+    },
+    {
+      "id": "sz-wikidata-q123342092",
+      "name": "Wikidata: Edeupa Yerimin",
+      "url": "https://www.wikidata.org/wiki/Q123342092",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Eswatini (Q1050), rank ontology#preferred, start 2023-11-04"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sz-head-of-state-1",
+      "jurisdictionCode": "SZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q29570674",
+        "title": "King of Swaziland",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1986-04-25",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mswati III",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sz-wikidata-q57340"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sz-wikidata-q57340"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "sz-head-of-government-1",
+      "jurisdictionCode": "SZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30101440",
+        "title": "Prime Minister of Eswatini",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-11-04",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Edeupa Yerimin",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sz-wikidata-q123342092"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sz-wikidata-q123342092"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "TH",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "th-wikidata-q548733",
+      "name": "Wikidata: Rama X of Thailand",
+      "url": "https://www.wikidata.org/wiki/Q548733",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Thailand (Q869), rank ontology#normal, start 2016-10-13"
+    },
+    {
+      "id": "th-wikidata-q13026319",
+      "name": "Wikidata: Paetongtarn Shinawatra",
+      "url": "https://www.wikidata.org/wiki/Q13026319",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Thailand (Q869), rank ontology#preferred, start 2024-08-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "th-head-of-state-1",
+      "jurisdictionCode": "TH",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q27330121",
+        "title": "King of Thailand",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2016-10-13",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Rama X of Thailand",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "th-wikidata-q548733"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "th-wikidata-q548733"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "th-head-of-government-1",
+      "jurisdictionCode": "TH",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q12376089",
+        "title": "Prime Minister of Thailand",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-08-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Paetongtarn Shinawatra",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "th-wikidata-q13026319"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "th-wikidata-q13026319"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

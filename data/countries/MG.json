@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mg-wikidata-q136500275",
+      "name": "Wikidata: Michael Randrianirina",
+      "url": "https://www.wikidata.org/wiki/Q136500275",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Madagascar (Q1019), rank ontology#preferred, start 2025-10-14"
+    },
+    {
+      "id": "mg-wikidata-q138678989",
+      "name": "Wikidata: Mamitiana Rajaonarison",
+      "url": "https://www.wikidata.org/wiki/Q138678989",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Madagascar (Q1019), rank ontology#preferred, start 2026-03-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mg-head-of-state-1",
+      "jurisdictionCode": "MG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19161338",
+        "title": "President of Madagascar",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-10-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Michael Randrianirina",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mg-wikidata-q136500275"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mg-wikidata-q136500275"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mg-head-of-government-1",
+      "jurisdictionCode": "MG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q23782691",
+        "title": "Prime Minister of Madagascar",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-03-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mamitiana Rajaonarison",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mg-wikidata-q138678989"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mg-wikidata-q138678989"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

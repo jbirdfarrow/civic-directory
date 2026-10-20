@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CY",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cy-wikidata-q48905549",
+      "name": "Wikidata: Nicos Christodoulides",
+      "url": "https://www.wikidata.org/wiki/Q48905549",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Cyprus (Q229), rank ontology#normal, start 2023-02-12"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cy-head-of-state-1",
+      "jurisdictionCode": "CY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q841760",
+        "title": "President of Cyprus",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-02-12",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nicos Christodoulides",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cy-wikidata-q48905549"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cy-wikidata-q48905549"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

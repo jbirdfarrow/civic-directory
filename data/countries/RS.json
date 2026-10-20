@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "RS",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "rs-wikidata-q26258815",
+      "name": "Wikidata: Ana Brnabić",
+      "url": "https://www.wikidata.org/wiki/Q26258815",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Serbia (Q403), rank ontology#normal, start 2026-09-27"
+    },
+    {
+      "id": "rs-wikidata-q42478807",
+      "name": "Wikidata: Đuro Macut",
+      "url": "https://www.wikidata.org/wiki/Q42478807",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Serbia (Q403), rank ontology#normal, start 2025-04-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "rs-head-of-state-1",
+      "jurisdictionCode": "RS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q889830",
+        "title": "President of Serbia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-09-27",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ana Brnabić",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "rs-wikidata-q26258815"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "rs-wikidata-q26258815"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "rs-head-of-government-1",
+      "jurisdictionCode": "RS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q835586",
+        "title": "Prime Minister of Serbia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-04-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Đuro Macut",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "rs-wikidata-q42478807"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "rs-wikidata-q42478807"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

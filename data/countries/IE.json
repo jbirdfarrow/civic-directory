@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "IE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ie-wikidata-q5052598",
+      "name": "Wikidata: Catherine Connolly",
+      "url": "https://www.wikidata.org/wiki/Q5052598",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Ireland (Q27), rank ontology#normal, start 2025-11-11"
+    },
+    {
+      "id": "ie-wikidata-q920403",
+      "name": "Wikidata: Micheál Martin",
+      "url": "https://www.wikidata.org/wiki/Q920403",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Ireland (Q27), rank ontology#preferred, start 2025-01-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ie-head-of-state-1",
+      "jurisdictionCode": "IE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q213702",
+        "title": "President of Ireland",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-11-11",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Catherine Connolly",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ie-wikidata-q5052598"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ie-wikidata-q5052598"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ie-head-of-government-1",
+      "jurisdictionCode": "IE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q191827",
+        "title": "Taoiseach",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-01-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Micheál Martin",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ie-wikidata-q920403"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ie-wikidata-q920403"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

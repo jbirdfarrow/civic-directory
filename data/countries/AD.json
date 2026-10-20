@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "AD",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ad-wikidata-q93244592",
+      "name": "Wikidata: Josep-Lluís Serrano Pentinat",
+      "url": "https://www.wikidata.org/wiki/Q93244592",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Andorra (Q228), rank ontology#preferred, start 2025-01-01"
+    },
+    {
+      "id": "ad-wikidata-q21001195",
+      "name": "Wikidata: Xavier Espot Zamora",
+      "url": "https://www.wikidata.org/wiki/Q21001195",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Andorra (Q228), rank ontology#preferred, start 2019-05-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ad-head-of-state-1",
+      "jurisdictionCode": "AD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19808845",
+        "title": "French co-prince of Andorra",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Josep-Lluís Serrano Pentinat",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ad-wikidata-q93244592"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ad-wikidata-q93244592"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ad-head-of-government-1",
+      "jurisdictionCode": "AD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q634322",
+        "title": "Prime Minister of Andorra",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-05-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Xavier Espot Zamora",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ad-wikidata-q21001195"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ad-wikidata-q21001195"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

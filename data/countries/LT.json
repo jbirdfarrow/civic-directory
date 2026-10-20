@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LT",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "lt-wikidata-q9268379",
+      "name": "Wikidata: Gitanas Nausėda",
+      "url": "https://www.wikidata.org/wiki/Q9268379",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Lithuania (Q37), rank ontology#preferred, start 2019-07-12"
+    },
+    {
+      "id": "lt-wikidata-q1936326",
+      "name": "Wikidata: Mindaugas Sinkevičius",
+      "url": "https://www.wikidata.org/wiki/Q1936326",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Lithuania (Q37), rank ontology#preferred, start 2026-07-14"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "lt-head-of-state-1",
+      "jurisdictionCode": "LT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q878222",
+        "title": "President of the Republic of Lithuania",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-07-12",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Gitanas Nausėda",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lt-wikidata-q9268379"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lt-wikidata-q9268379"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "lt-head-of-government-1",
+      "jurisdictionCode": "LT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q845439",
+        "title": "Prime Minister of Lithuania",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-07-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mindaugas Sinkevičius",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "lt-wikidata-q1936326"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "lt-wikidata-q1936326"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

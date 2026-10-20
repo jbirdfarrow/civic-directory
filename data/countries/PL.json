@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "PL",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "pl-wikidata-q17704749",
+      "name": "Wikidata: Karol Nawrocki",
+      "url": "https://www.wikidata.org/wiki/Q17704749",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Poland (Q36), rank ontology#preferred, start 2025-08-06"
+    },
+    {
+      "id": "pl-wikidata-q946",
+      "name": "Wikidata: Donald Tusk",
+      "url": "https://www.wikidata.org/wiki/Q946",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Poland (Q36), rank ontology#preferred, start 2023-12-13"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "pl-head-of-state-1",
+      "jurisdictionCode": "PL",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1054799",
+        "title": "President of the Republic of Poland",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-08-06",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Karol Nawrocki",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pl-wikidata-q17704749"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pl-wikidata-q17704749"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "pl-head-of-government-1",
+      "jurisdictionCode": "PL",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3259469",
+        "title": "Prime Minister of Poland",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-12-13",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Donald Tusk",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pl-wikidata-q946"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pl-wikidata-q946"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

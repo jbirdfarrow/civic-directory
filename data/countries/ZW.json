@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ZW",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "zw-wikidata-q510523",
+      "name": "Wikidata: Emmerson Mnangagwa",
+      "url": "https://www.wikidata.org/wiki/Q510523",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Zimbabwe (Q954), rank ontology#normal, start 2017-11-24"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "zw-head-of-state-1",
+      "jurisdictionCode": "ZW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19056184",
+        "title": "President of Zimbabwe",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2017-11-24",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Emmerson Mnangagwa",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "zw-wikidata-q510523"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "zw-wikidata-q510523"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

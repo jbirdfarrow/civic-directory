@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "EG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "eg-wikidata-q307871",
+      "name": "Wikidata: Abdel Fattah el-Sisi",
+      "url": "https://www.wikidata.org/wiki/Q307871",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Egypt (Q79), rank ontology#normal, start 2014-06-08"
+    },
+    {
+      "id": "eg-wikidata-q54901515",
+      "name": "Wikidata: Mostafa Madbouly",
+      "url": "https://www.wikidata.org/wiki/Q54901515",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Egypt (Q79), rank ontology#normal, start 2018-06-14"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "eg-head-of-state-1",
+      "jurisdictionCode": "EG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q15618993",
+        "title": "President of Egypt",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2014-06-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abdel Fattah el-Sisi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "eg-wikidata-q307871"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "eg-wikidata-q307871"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "eg-head-of-government-1",
+      "jurisdictionCode": "EG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1571396",
+        "title": "Prime Minister of Egypt",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-06-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mostafa Madbouly",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "eg-wikidata-q54901515"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "eg-wikidata-q54901515"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MT",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mt-wikidata-q1647394",
+      "name": "Wikidata: Myriam Spiteri Debono",
+      "url": "https://www.wikidata.org/wiki/Q1647394",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Malta (Q233), rank ontology#preferred, start 2024-04-04"
+    },
+    {
+      "id": "mt-wikidata-q37860840",
+      "name": "Wikidata: Robert Abela",
+      "url": "https://www.wikidata.org/wiki/Q37860840",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Malta (Q233), rank ontology#preferred, start 2020-01-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mt-head-of-state-1",
+      "jurisdictionCode": "MT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q796593",
+        "title": "President of Malta",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-04-04",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Myriam Spiteri Debono",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mt-wikidata-q1647394"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mt-wikidata-q1647394"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mt-head-of-government-1",
+      "jurisdictionCode": "MT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q152814",
+        "title": "Prime Minister of Malta",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Robert Abela",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mt-wikidata-q37860840"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mt-wikidata-q37860840"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

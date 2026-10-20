@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MN",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "mn-wikidata-q27058418",
+      "name": "Wikidata: Khurelsukh Ukhnaa",
+      "url": "https://www.wikidata.org/wiki/Q27058418",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Mongolia (Q711), rank ontology#preferred, start 2021-06-25"
+    },
+    {
+      "id": "mn-wikidata-q110962738",
+      "name": "Wikidata: Uchral Nyam-Osor",
+      "url": "https://www.wikidata.org/wiki/Q110962738",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Mongolia (Q711), rank ontology#preferred, start 2026-03-30"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mn-head-of-state-1",
+      "jurisdictionCode": "MN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q756265",
+        "title": "President of Mongolia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-06-25",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Khurelsukh Ukhnaa",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mn-wikidata-q27058418"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mn-wikidata-q27058418"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "mn-head-of-government-1",
+      "jurisdictionCode": "MN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q903751",
+        "title": "Prime Minister of Mongolia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-03-30",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Uchral Nyam-Osor",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "mn-wikidata-q110962738"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mn-wikidata-q110962738"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

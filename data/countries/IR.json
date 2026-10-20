@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "IR",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ir-wikidata-q2919350",
+      "name": "Wikidata: Mojtaba Khamenei",
+      "url": "https://www.wikidata.org/wiki/Q2919350",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Iran (Q794), rank ontology#preferred, start 2026-03-08"
+    },
+    {
+      "id": "ir-wikidata-q5933752",
+      "name": "Wikidata: Masoud Pezeshkian",
+      "url": "https://www.wikidata.org/wiki/Q5933752",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Iran (Q794), rank ontology#preferred, start 2024-07-28"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ir-head-of-state-1",
+      "jurisdictionCode": "IR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q838380",
+        "title": "President of Iran",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-03-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mojtaba Khamenei",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ir-wikidata-q2919350"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ir-wikidata-q2919350"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ir-head-of-government-1",
+      "jurisdictionCode": "IR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q838380",
+        "title": "President of Iran",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-07-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Masoud Pezeshkian",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ir-wikidata-q5933752"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ir-wikidata-q5933752"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

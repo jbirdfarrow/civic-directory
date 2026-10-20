@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CH",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ch-wikidata-q30917",
+      "name": "Wikidata: Swiss Federal Council",
+      "url": "https://www.wikidata.org/wiki/Q30917",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Switzerland (Q39), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ch-head-of-state-1",
+      "jurisdictionCode": "CH",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q11811941",
+        "title": "Member of the Swiss Federal Council",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Swiss Federal Council",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ch-wikidata-q30917"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ch-wikidata-q30917"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

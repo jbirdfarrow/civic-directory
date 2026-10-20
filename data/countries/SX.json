@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SX",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sx-wikidata-q2298739",
+      "name": "Wikidata: Eugene Holiday",
+      "url": "https://www.wikidata.org/wiki/Q2298739",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Sint Maarten (Q26273), rank ontology#normal"
+    },
+    {
+      "id": "sx-wikidata-q154952",
+      "name": "Wikidata: William Alexander of the Netherlands",
+      "url": "https://www.wikidata.org/wiki/Q154952",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Sint Maarten (Q26273), rank ontology#normal"
+    },
+    {
+      "id": "sx-wikidata-q47262798",
+      "name": "Wikidata: Leona Marlin-Romeo",
+      "url": "https://www.wikidata.org/wiki/Q47262798",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Sint Maarten (Q26273), rank ontology#preferred, start 2018-01-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sx-head-of-state-1",
+      "jurisdictionCode": "SX",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Head of State",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Eugene Holiday",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sx-wikidata-q2298739"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sx-wikidata-q2298739"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "sx-head-of-state-2",
+      "jurisdictionCode": "SX",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Head of State",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "William Alexander of the Netherlands",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sx-wikidata-q154952"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sx-wikidata-q154952"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "sx-head-of-government-1",
+      "jurisdictionCode": "SX",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2075145",
+        "title": "Prime Minister of Sint Maarten",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-01-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Leona Marlin-Romeo",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sx-wikidata-q47262798"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sx-wikidata-q47262798"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

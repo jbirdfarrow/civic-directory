@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "IQ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "iq-wikidata-q115579547",
+      "name": "Wikidata: Nizar Amidi",
+      "url": "https://www.wikidata.org/wiki/Q115579547",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Iraq (Q796), rank ontology#preferred, start 2022-10-17"
+    },
+    {
+      "id": "iq-wikidata-q3700793",
+      "name": "Wikidata: Muhammad Shia' al-Sudani",
+      "url": "https://www.wikidata.org/wiki/Q3700793",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Iraq (Q796), rank ontology#preferred, start 2022-10-27"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "iq-head-of-state-1",
+      "jurisdictionCode": "IQ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q889817",
+        "title": "President of Iraq",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-10-17",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nizar Amidi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "iq-wikidata-q115579547"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "iq-wikidata-q115579547"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "iq-head-of-government-1",
+      "jurisdictionCode": "IQ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1476165",
+        "title": "Prime Minister of Iraq",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-10-27",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Muhammad Shia' al-Sudani",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "iq-wikidata-q3700793"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "iq-wikidata-q3700793"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

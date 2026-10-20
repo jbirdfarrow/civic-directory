@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MS",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ms-wikidata-q98425237",
+      "name": "Wikidata: Harriet Cross",
+      "url": "https://www.wikidata.org/wiki/Q98425237",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Montserrat (Q13353), rank ontology#preferred, start 2025-04-08"
+    },
+    {
+      "id": "ms-wikidata-q1862326",
+      "name": "Wikidata: Reuben Meade",
+      "url": "https://www.wikidata.org/wiki/Q1862326",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Montserrat (Q13353), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ms-head-of-state-1",
+      "jurisdictionCode": "MS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q772727",
+        "title": "Governor of Montserrat",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-04-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Harriet Cross",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ms-wikidata-q98425237"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ms-wikidata-q98425237"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ms-head-of-government-1",
+      "jurisdictionCode": "MS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3245464",
+        "title": "Premier of Montserrat",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Reuben Meade",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ms-wikidata-q1862326"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ms-wikidata-q1862326"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

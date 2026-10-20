@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "KW",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "kw-wikidata-q12243161",
+      "name": "Wikidata: Mishal Al-Ahmad Al-Jaber Al-Sabah",
+      "url": "https://www.wikidata.org/wiki/Q12243161",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Kuwait (Q817), rank ontology#preferred, start 2023-12-16"
+    },
+    {
+      "id": "kw-wikidata-q12219691",
+      "name": "Wikidata: Sabah Al-Khalid Al-Sabah",
+      "url": "https://www.wikidata.org/wiki/Q12219691",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Kuwait (Q817), rank ontology#normal"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "kw-head-of-state-1",
+      "jurisdictionCode": "KW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q100877419",
+        "title": "Emir of Kuwait",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-12-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kw-wikidata-q12243161"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kw-wikidata-q12243161"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "kw-head-of-government-1",
+      "jurisdictionCode": "KW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100649",
+        "title": "Prime Minister of Kuwait",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sabah Al-Khalid Al-Sabah",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kw-wikidata-q12219691"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kw-wikidata-q12219691"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

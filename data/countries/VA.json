@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "VA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "va-wikidata-q6109517",
+      "name": "Wikidata: Leo XIV",
+      "url": "https://www.wikidata.org/wiki/Q6109517",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Vatican City (Q237), rank ontology#preferred, start 2025-05-08"
+    },
+    {
+      "id": "va-wikidata-q109385659",
+      "name": "Wikidata: Raffaella Petrini",
+      "url": "https://www.wikidata.org/wiki/Q109385659",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Vatican City (Q237), rank ontology#normal, start 2025-03-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "va-head-of-state-1",
+      "jurisdictionCode": "VA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19546",
+        "title": "Pope",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-05-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Leo XIV",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "va-wikidata-q6109517"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "va-wikidata-q6109517"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "va-head-of-government-1",
+      "jurisdictionCode": "VA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2387238",
+        "title": "President of the Pontifical Commission for the Vatican City State",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-03-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Raffaella Petrini",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "va-wikidata-q109385659"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "va-wikidata-q109385659"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

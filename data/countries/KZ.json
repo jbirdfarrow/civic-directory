@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "KZ",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "kz-wikidata-q200881",
+      "name": "Wikidata: Kassym-Jomart Tokayev",
+      "url": "https://www.wikidata.org/wiki/Q200881",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Kazakhstan (Q232), rank ontology#preferred, start 2019-03-20"
+    },
+    {
+      "id": "kz-wikidata-q124436646",
+      "name": "Wikidata: Olzhas Bektenov",
+      "url": "https://www.wikidata.org/wiki/Q124436646",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Kazakhstan (Q232), rank ontology#preferred, start 2024-02-06"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "kz-head-of-state-1",
+      "jurisdictionCode": "KZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q5256775",
+        "title": "President of Kazakhstan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-03-20",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Kassym-Jomart Tokayev",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kz-wikidata-q200881"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kz-wikidata-q200881"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "kz-head-of-government-1",
+      "jurisdictionCode": "KZ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2416315",
+        "title": "Prime Minister of Kazakhstan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-02-06",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Olzhas Bektenov",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kz-wikidata-q124436646"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kz-wikidata-q124436646"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

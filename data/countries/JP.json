@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "JP",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "jp-wikidata-q217096",
+      "name": "Wikidata: Naruhito",
+      "url": "https://www.wikidata.org/wiki/Q217096",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Japan (Q17), rank ontology#preferred, start 2019-05-01"
+    },
+    {
+      "id": "jp-wikidata-q1705028",
+      "name": "Wikidata: Sanae Takaichi",
+      "url": "https://www.wikidata.org/wiki/Q1705028",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Japan (Q17), rank ontology#preferred, start 2025-10-21"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "jp-head-of-state-1",
+      "jurisdictionCode": "JP",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q208233",
+        "title": "Emperor of Japan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-05-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Naruhito",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "jp-wikidata-q217096"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jp-wikidata-q217096"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "jp-head-of-government-1",
+      "jurisdictionCode": "JP",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q274948",
+        "title": "Prime Minister of Japan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-10-21",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sanae Takaichi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "jp-wikidata-q1705028"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jp-wikidata-q1705028"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

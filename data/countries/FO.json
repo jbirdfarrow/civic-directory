@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "FO",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "fo-wikidata-q1004037",
+      "name": "Wikidata: Frederik X of Denmark",
+      "url": "https://www.wikidata.org/wiki/Q1004037",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Faroe Islands (Q4628), rank ontology#preferred, start 2024-01-14"
+    },
+    {
+      "id": "fo-wikidata-q556712",
+      "name": "Wikidata: Aksel V. Johannesen",
+      "url": "https://www.wikidata.org/wiki/Q556712",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Faroe Islands (Q4628), rank ontology#preferred, start 2015-09-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "fo-head-of-state-1",
+      "jurisdictionCode": "FO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Head of State",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-01-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Frederik X of Denmark",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "fo-wikidata-q1004037"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fo-wikidata-q1004037"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "fo-head-of-government-1",
+      "jurisdictionCode": "FO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1000921",
+        "title": "Prime Minister of the Faroe Islands",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2015-09-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Aksel V. Johannesen",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "fo-wikidata-q556712"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fo-wikidata-q556712"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

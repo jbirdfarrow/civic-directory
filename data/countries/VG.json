@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "VG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "vg-wikidata-q28709152",
+      "name": "Wikidata: Andrew Fahie",
+      "url": "https://www.wikidata.org/wiki/Q28709152",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on British Virgin Islands (Q25305), rank ontology#preferred, start 2019-02-26"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "vg-head-of-government-1",
+      "jurisdictionCode": "VG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q119804",
+        "title": "Premier of the Virgin Islands",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-02-26",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Andrew Fahie",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "vg-wikidata-q28709152"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "vg-wikidata-q28709152"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

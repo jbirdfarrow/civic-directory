@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "HT",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ht-wikidata-q124846311",
+      "name": "Wikidata: Transitional Presidential Council",
+      "url": "https://www.wikidata.org/wiki/Q124846311",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Haiti (Q790), rank ontology#preferred, start 2024-04-25"
+    },
+    {
+      "id": "ht-wikidata-q131140314",
+      "name": "Wikidata: Alix Didier Fils-Aimé",
+      "url": "https://www.wikidata.org/wiki/Q131140314",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Haiti (Q790), rank ontology#preferred, start 2024-11-11"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ht-head-of-state-1",
+      "jurisdictionCode": "HT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3290543",
+        "title": "President of Haiti",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-04-25",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Transitional Presidential Council",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ht-wikidata-q124846311"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ht-wikidata-q124846311"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ht-head-of-government-1",
+      "jurisdictionCode": "HT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1064589",
+        "title": "Prime Minister of Haiti",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-11-11",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Alix Didier Fils-Aimé",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ht-wikidata-q131140314"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ht-wikidata-q131140314"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

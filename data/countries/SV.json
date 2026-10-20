@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SV",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sv-wikidata-q17712353",
+      "name": "Wikidata: Nayib Bukele",
+      "url": "https://www.wikidata.org/wiki/Q17712353",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on El Salvador (Q792), rank ontology#normal, start 2019-06-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sv-head-of-state-1",
+      "jurisdictionCode": "SV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q878151",
+        "title": "President of El Salvador",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-06-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nayib Bukele",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sv-wikidata-q17712353"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sv-wikidata-q17712353"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

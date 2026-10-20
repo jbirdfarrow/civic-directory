@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CI",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ci-wikidata-q57413",
+      "name": "Wikidata: Alassane Ouattara",
+      "url": "https://www.wikidata.org/wiki/Q57413",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Ivory Coast (Q1008), rank ontology#preferred, start 2010-12-04"
+    },
+    {
+      "id": "ci-wikidata-q3434569",
+      "name": "Wikidata: Robert Beugré Mambé",
+      "url": "https://www.wikidata.org/wiki/Q3434569",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Ivory Coast (Q1008), rank ontology#preferred, start 2023-10-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ci-head-of-state-1",
+      "jurisdictionCode": "CI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3409195",
+        "title": "President of the Ivory Coast",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2010-12-04",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Alassane Ouattara",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ci-wikidata-q57413"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ci-wikidata-q57413"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ci-head-of-government-1",
+      "jurisdictionCode": "CI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3401763",
+        "title": "Prime Minister of Ivory Coast",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-10-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Robert Beugré Mambé",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ci-wikidata-q3434569"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ci-wikidata-q3434569"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

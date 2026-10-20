@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BT",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bt-wikidata-q57376",
+      "name": "Wikidata: Jigme Khesar Namgyel Wangchuck",
+      "url": "https://www.wikidata.org/wiki/Q57376",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Bhutan (Q917), rank ontology#preferred, start 2008-11-06"
+    },
+    {
+      "id": "bt-wikidata-q7849613",
+      "name": "Wikidata: Tshering Tobgay",
+      "url": "https://www.wikidata.org/wiki/Q7849613",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Bhutan (Q917), rank ontology#normal, start 2024-01-28"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bt-head-of-state-1",
+      "jurisdictionCode": "BT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1261215",
+        "title": "King of Bhutan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2008-11-06",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Jigme Khesar Namgyel Wangchuck",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bt-wikidata-q57376"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bt-wikidata-q57376"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "bt-head-of-government-1",
+      "jurisdictionCode": "BT",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q663871",
+        "title": "Prime Minister of Bhutan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-01-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tshering Tobgay",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bt-wikidata-q7849613"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bt-wikidata-q7849613"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

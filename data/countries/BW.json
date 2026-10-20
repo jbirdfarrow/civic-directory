@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BW",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bw-wikidata-q18618881",
+      "name": "Wikidata: Duma Boko",
+      "url": "https://www.wikidata.org/wiki/Q18618881",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Botswana (Q963), rank ontology#preferred, start 2024-11-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bw-head-of-state-1",
+      "jurisdictionCode": "BW",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q866725",
+        "title": "President of Botswana",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-11-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Duma Boko",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bw-wikidata-q18618881"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bw-wikidata-q18618881"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CR",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cr-wikidata-q114705150",
+      "name": "Wikidata: Laura Fernández Delgado",
+      "url": "https://www.wikidata.org/wiki/Q114705150",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Costa Rica (Q800), rank ontology#preferred, start 2026-05-08"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cr-head-of-state-1",
+      "jurisdictionCode": "CR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q27977064",
+        "title": "President of Costa Rica",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-05-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Laura Fernández Delgado",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cr-wikidata-q114705150"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cr-wikidata-q114705150"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

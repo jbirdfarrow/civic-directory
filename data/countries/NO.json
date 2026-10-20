@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "NO",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "no-wikidata-q165241",
+      "name": "Wikidata: Haakon VIII of Norway",
+      "url": "https://www.wikidata.org/wiki/Q165241",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Norway (Q20), rank ontology#preferred, start 2026-08-28"
+    },
+    {
+      "id": "no-wikidata-q467948",
+      "name": "Wikidata: Jonas Gahr Støre",
+      "url": "https://www.wikidata.org/wiki/Q467948",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Norway (Q20), rank ontology#preferred, start 2021-10-14"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "no-head-of-state-1",
+      "jurisdictionCode": "NO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1294765",
+        "title": "Monarch of Norway",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-08-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Haakon VIII of Norway",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "no-wikidata-q165241"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "no-wikidata-q165241"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "no-head-of-government-1",
+      "jurisdictionCode": "NO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2334076",
+        "title": "Prime Minister of Norway",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-10-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Jonas Gahr Støre",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "no-wikidata-q467948"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "no-wikidata-q467948"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

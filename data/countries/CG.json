@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cg-wikidata-q57418",
+      "name": "Wikidata: Denis Sassou-Nguesso",
+      "url": "https://www.wikidata.org/wiki/Q57418",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Republic of the Congo (Q971), rank ontology#normal, start 1997-10-25"
+    },
+    {
+      "id": "cg-wikidata-q4752077",
+      "name": "Wikidata: Anatole Collinet Makosso",
+      "url": "https://www.wikidata.org/wiki/Q4752077",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Republic of the Congo (Q971), rank ontology#normal, start 2021-05-12"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cg-head-of-state-1",
+      "jurisdictionCode": "CG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q10353660",
+        "title": "President of the Republic of the Congo",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1997-10-25",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Denis Sassou-Nguesso",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cg-wikidata-q57418"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cg-wikidata-q57418"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "cg-head-of-government-1",
+      "jurisdictionCode": "CG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30101451",
+        "title": "Prime Minister of the Republic of the Congo",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-05-12",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Anatole Collinet Makosso",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cg-wikidata-q4752077"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cg-wikidata-q4752077"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BD",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "bd-wikidata-q116763154",
+      "name": "Wikidata: Mohammad Shahabuddin",
+      "url": "https://www.wikidata.org/wiki/Q116763154",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Bangladesh (Q902), rank ontology#preferred, start 2023-04-24"
+    },
+    {
+      "id": "bd-wikidata-q7686199",
+      "name": "Wikidata: Tarique Rahman",
+      "url": "https://www.wikidata.org/wiki/Q7686199",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Bangladesh (Q902), rank ontology#preferred, start 2026-02-17"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bd-head-of-state-1",
+      "jurisdictionCode": "BD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q596123",
+        "title": "President of Bangladesh",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-04-24",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohammad Shahabuddin",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bd-wikidata-q116763154"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bd-wikidata-q116763154"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "bd-head-of-government-1",
+      "jurisdictionCode": "BD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14565638",
+        "title": "Prime Minister of Bangladesh",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-02-17",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tarique Rahman",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bd-wikidata-q7686199"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bd-wikidata-q7686199"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

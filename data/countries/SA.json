@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sa-wikidata-q367825",
+      "name": "Wikidata: Salman bin Abdulaziz Al Saud",
+      "url": "https://www.wikidata.org/wiki/Q367825",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Saudi Arabia (Q851), rank ontology#preferred, start 2015-01-23"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sa-head-of-state-1",
+      "jurisdictionCode": "SA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q850168",
+        "title": "King of Saudi Arabia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2015-01-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Salman bin Abdulaziz Al Saud",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sa-wikidata-q367825"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sa-wikidata-q367825"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "RO",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ro-wikidata-q11163124",
+      "name": "Wikidata: Nicușor Dan",
+      "url": "https://www.wikidata.org/wiki/Q11163124",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Romania (Q218), rank ontology#preferred, start 2025-05-26"
+    },
+    {
+      "id": "ro-wikidata-q121140873",
+      "name": "Wikidata: Luca Niculescu",
+      "url": "https://www.wikidata.org/wiki/Q121140873",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Romania (Q218), rank ontology#preferred, start 2026-10-20"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ro-head-of-state-1",
+      "jurisdictionCode": "RO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q839139",
+        "title": "President of Romania",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-05-26",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nicușor Dan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ro-wikidata-q11163124"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ro-wikidata-q11163124"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ro-head-of-government-1",
+      "jurisdictionCode": "RO",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q15304810",
+        "title": "Prime Minister of Romania",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-10-20",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Luca Niculescu",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ro-wikidata-q121140873"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ro-wikidata-q121140873"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

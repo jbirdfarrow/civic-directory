@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "HU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "hu-wikidata-q28599854",
+      "name": "Wikidata: Tamás Sulyok",
+      "url": "https://www.wikidata.org/wiki/Q28599854",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Hungary (Q28), rank ontology#normal, start 2024-03-05"
+    },
+    {
+      "id": "hu-wikidata-q124488292",
+      "name": "Wikidata: Péter Magyar",
+      "url": "https://www.wikidata.org/wiki/Q124488292",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Hungary (Q28), rank ontology#preferred, start 2026-05-09"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "hu-head-of-state-1",
+      "jurisdictionCode": "HU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q520765",
+        "title": "President of Hungary",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-03-05",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tamás Sulyok",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "hu-wikidata-q28599854"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "hu-wikidata-q28599854"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "hu-head-of-government-1",
+      "jurisdictionCode": "HU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3315094",
+        "title": "Prime Minister of Hungary",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-05-09",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Péter Magyar",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "hu-wikidata-q124488292"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "hu-wikidata-q124488292"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

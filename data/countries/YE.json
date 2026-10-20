@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "YE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ye-wikidata-q12213376",
+      "name": "Wikidata: Rashad al-Alimi",
+      "url": "https://www.wikidata.org/wiki/Q12213376",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Yemen (Q805), rank ontology#preferred, start 2022-04-07"
+    },
+    {
+      "id": "ye-wikidata-q68837007",
+      "name": "Wikidata: Salem Saleh bin Braik",
+      "url": "https://www.wikidata.org/wiki/Q68837007",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Yemen (Q805), rank ontology#preferred, start 2025-05-03"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ye-head-of-state-1",
+      "jurisdictionCode": "YE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q878256",
+        "title": "حسان حسين محمد السعيدي الجمهورية اليمنية",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-04-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Rashad al-Alimi",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ye-wikidata-q12213376"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ye-wikidata-q12213376"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ye-head-of-government-1",
+      "jurisdictionCode": "YE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1192903",
+        "title": "Prime Minister of Yemen",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2025-05-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Salem Saleh bin Braik",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ye-wikidata-q68837007"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ye-wikidata-q68837007"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

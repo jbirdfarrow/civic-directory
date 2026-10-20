@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "VE",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ve-wikidata-q15081116",
+      "name": "Wikidata: Delcy Rodriguez",
+      "url": "https://www.wikidata.org/wiki/Q15081116",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Venezuela (Q717), rank ontology#normal, start 2026-01-03"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ve-head-of-state-1",
+      "jurisdictionCode": "VE",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q11942698",
+        "title": "President of Venezuela",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-01-03",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Delcy Rodriguez",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ve-wikidata-q15081116"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ve-wikidata-q15081116"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "VU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "vu-wikidata-q113239716",
+      "name": "Wikidata: Nikenike Vurobaravu",
+      "url": "https://www.wikidata.org/wiki/Q113239716",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Vanuatu (Q686), rank ontology#preferred, start 2022-07-23"
+    },
+    {
+      "id": "vu-wikidata-q16190741",
+      "name": "Wikidata: Bob Loughman",
+      "url": "https://www.wikidata.org/wiki/Q16190741",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Vanuatu (Q686), rank ontology#preferred, start 2020-04-20"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "vu-head-of-state-1",
+      "jurisdictionCode": "VU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q878217",
+        "title": "President of Vanuatu",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-07-23",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nikenike Vurobaravu",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "vu-wikidata-q113239716"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "vu-wikidata-q113239716"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "vu-head-of-government-1",
+      "jurisdictionCode": "VU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1029958",
+        "title": "Prime Minister of Vanuatu",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-04-20",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Bob Loughman",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "vu-wikidata-q16190741"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "vu-wikidata-q16190741"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SK",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sk-wikidata-q17330556",
+      "name": "Wikidata: Peter Pellegrini",
+      "url": "https://www.wikidata.org/wiki/Q17330556",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Slovakia (Q214), rank ontology#preferred, start 2024-06-15"
+    },
+    {
+      "id": "sk-wikidata-q57606",
+      "name": "Wikidata: Robert Fico",
+      "url": "https://www.wikidata.org/wiki/Q57606",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Slovakia (Q214), rank ontology#preferred, start 2023-10-25"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sk-head-of-state-1",
+      "jurisdictionCode": "SK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q6468838",
+        "title": "President of Slovakia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-06-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Peter Pellegrini",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sk-wikidata-q17330556"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sk-wikidata-q17330556"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "sk-head-of-government-1",
+      "jurisdictionCode": "SK",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q45369",
+        "title": "Prime Minister of Slovakia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-10-25",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Robert Fico",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sk-wikidata-q57606"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sk-wikidata-q57606"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

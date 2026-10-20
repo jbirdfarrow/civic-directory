@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ER",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "er-wikidata-q57348",
+      "name": "Wikidata: Isaias Afwerki",
+      "url": "https://www.wikidata.org/wiki/Q57348",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Eritrea (Q986), rank ontology#normal, start 1993-01-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "er-head-of-state-1",
+      "jurisdictionCode": "ER",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19108193",
+        "title": "President of Eritrea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1993-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Isaias Afwerki",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "er-wikidata-q57348"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "er-wikidata-q57348"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

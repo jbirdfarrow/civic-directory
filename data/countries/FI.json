@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "FI",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "fi-wikidata-q503143",
+      "name": "Wikidata: Alexander Stubb",
+      "url": "https://www.wikidata.org/wiki/Q503143",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Finland (Q33), rank ontology#preferred, start 2024-03-01"
+    },
+    {
+      "id": "fi-wikidata-q6029546",
+      "name": "Wikidata: Petteri Orpo",
+      "url": "https://www.wikidata.org/wiki/Q6029546",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Finland (Q33), rank ontology#preferred, start 2023-06-20"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "fi-head-of-state-1",
+      "jurisdictionCode": "FI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q29558",
+        "title": "President of Finland",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-03-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Alexander Stubb",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "fi-wikidata-q503143"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fi-wikidata-q503143"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "fi-head-of-government-1",
+      "jurisdictionCode": "FI",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q738695",
+        "title": "Prime Minister of Finland",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-06-20",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Petteri Orpo",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "fi-wikidata-q6029546"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fi-wikidata-q6029546"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

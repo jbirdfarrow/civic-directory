@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "PN",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "pn-wikidata-q75462006",
+      "name": "Wikidata: Charlene Warren-Peu",
+      "url": "https://www.wikidata.org/wiki/Q75462006",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Pitcairn Islands (Q35672), rank ontology#normal, start 2020-01-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "pn-head-of-government-1",
+      "jurisdictionCode": "PN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q24188609",
+        "title": "Mayor of the Pitcairn Islands",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2020-01-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Charlene Warren-Peu",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pn-wikidata-q75462006"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pn-wikidata-q75462006"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ZA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "za-wikidata-q1148669",
+      "name": "Wikidata: Cyril Ramaphosa",
+      "url": "https://www.wikidata.org/wiki/Q1148669",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on South Africa (Q258), rank ontology#normal, start 2018-02-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "za-head-of-state-1",
+      "jurisdictionCode": "ZA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q273884",
+        "title": "President of South Africa",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-02-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Cyril Ramaphosa",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "za-wikidata-q1148669"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "za-wikidata-q1148669"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

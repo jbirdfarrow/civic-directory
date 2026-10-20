@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ET",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "et-wikidata-q124831090",
+      "name": "Wikidata: Taye Atske Selassie",
+      "url": "https://www.wikidata.org/wiki/Q124831090",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Ethiopia (Q115), rank ontology#normal, start 2024-10-07"
+    },
+    {
+      "id": "et-wikidata-q50365049",
+      "name": "Wikidata: Abiy Ahmed",
+      "url": "https://www.wikidata.org/wiki/Q50365049",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Ethiopia (Q115), rank ontology#preferred, start 2018-04-01"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "et-head-of-state-1",
+      "jurisdictionCode": "ET",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q3409186",
+        "title": "President of Ethiopia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-10-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Taye Atske Selassie",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "et-wikidata-q124831090"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "et-wikidata-q124831090"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "et-head-of-government-1",
+      "jurisdictionCode": "ET",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1788970",
+        "title": "Prime Minister of Ethiopia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-04-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abiy Ahmed",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "et-wikidata-q50365049"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "et-wikidata-q50365049"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

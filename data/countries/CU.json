@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CU",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cu-wikidata-q1932603",
+      "name": "Wikidata: Miguel Díaz-Canel",
+      "url": "https://www.wikidata.org/wiki/Q1932603",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Cuba (Q241), rank ontology#preferred, start 2018-04-19"
+    },
+    {
+      "id": "cu-wikidata-q79358625",
+      "name": "Wikidata: Manuel Marrero Cruz",
+      "url": "https://www.wikidata.org/wiki/Q79358625",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Cuba (Q241), rank ontology#preferred, start 2019-12-21"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cu-head-of-state-1",
+      "jurisdictionCode": "CU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1370482",
+        "title": "President of Cuba",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-04-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Miguel Díaz-Canel",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cu-wikidata-q1932603"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cu-wikidata-q1932603"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "cu-head-of-government-1",
+      "jurisdictionCode": "CU",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q6502015",
+        "title": "Prime Minister of Cuba",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2019-12-21",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Manuel Marrero Cruz",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cu-wikidata-q79358625"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cu-wikidata-q79358625"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

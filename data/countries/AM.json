@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "AM",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "am-wikidata-q3553274",
+      "name": "Wikidata: Vahagn Khachatryan",
+      "url": "https://www.wikidata.org/wiki/Q3553274",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Armenia (Q399), rank ontology#preferred, start 2022-03-13"
+    },
+    {
+      "id": "am-wikidata-q7035479",
+      "name": "Wikidata: Nikol Pashinyan",
+      "url": "https://www.wikidata.org/wiki/Q7035479",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Armenia (Q399), rank ontology#normal, start 2018-05-08"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "am-head-of-state-1",
+      "jurisdictionCode": "AM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q4283840",
+        "title": "President of Armenia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-03-13",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Vahagn Khachatryan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "am-wikidata-q3553274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "am-wikidata-q3553274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "am-head-of-government-1",
+      "jurisdictionCode": "AM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q1123764",
+        "title": "Prime Minister of Armenia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2018-05-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Nikol Pashinyan",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "am-wikidata-q7035479"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "am-wikidata-q7035479"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

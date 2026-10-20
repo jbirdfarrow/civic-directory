@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "ML",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ml-wikidata-q98497406",
+      "name": "Wikidata: Assimi Goïta",
+      "url": "https://www.wikidata.org/wiki/Q98497406",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Mali (Q912), rank ontology#preferred, start 2021-05-24"
+    },
+    {
+      "id": "ml-wikidata-q113577661",
+      "name": "Wikidata: Abdoulaye Maïga",
+      "url": "https://www.wikidata.org/wiki/Q113577661",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Mali (Q912), rank ontology#preferred, start 2022-08-21"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ml-head-of-state-1",
+      "jurisdictionCode": "ML",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q47006779",
+        "title": "President of Mali",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-05-24",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Assimi Goïta",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ml-wikidata-q98497406"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ml-wikidata-q98497406"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ml-head-of-government-1",
+      "jurisdictionCode": "ML",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100640",
+        "title": "Prime Minister of Mali",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-08-21",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abdoulaye Maïga",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ml-wikidata-q113577661"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ml-wikidata-q113577661"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

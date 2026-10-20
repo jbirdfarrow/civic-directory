@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MY",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "my-wikidata-q2657043",
+      "name": "Wikidata: Ibrahim Iskandar of Johor",
+      "url": "https://www.wikidata.org/wiki/Q2657043",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Malaysia (Q833), rank ontology#preferred, start 2024-01-31"
+    },
+    {
+      "id": "my-wikidata-q299574",
+      "name": "Wikidata: Anwar Ibrahim",
+      "url": "https://www.wikidata.org/wiki/Q299574",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Malaysia (Q833), rank ontology#preferred, start 2022-11-24"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "my-head-of-state-1",
+      "jurisdictionCode": "MY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q174156",
+        "title": "Yang di-Pertuan Agong",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-01-31",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ibrahim Iskandar of Johor",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "my-wikidata-q2657043"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "my-wikidata-q2657043"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "my-head-of-government-1",
+      "jurisdictionCode": "MY",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q862559",
+        "title": "Prime Minister of Malaysia",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-11-24",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Anwar Ibrahim",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "my-wikidata-q299574"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "my-wikidata-q299574"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

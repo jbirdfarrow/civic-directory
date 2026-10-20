@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "GN",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "gn-wikidata-q108418519",
+      "name": "Wikidata: Mamadi Doumbouya",
+      "url": "https://www.wikidata.org/wiki/Q108418519",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Guinea (Q1006), rank ontology#normal, start 2021-10-01"
+    },
+    {
+      "id": "gn-wikidata-q22209348",
+      "name": "Wikidata: Bah Oury",
+      "url": "https://www.wikidata.org/wiki/Q22209348",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Guinea (Q1006), rank ontology#normal, start 2024-02-27"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "gn-head-of-state-1",
+      "jurisdictionCode": "GN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q28015517",
+        "title": "President of Guinea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-10-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mamadi Doumbouya",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gn-wikidata-q108418519"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gn-wikidata-q108418519"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "gn-head-of-government-1",
+      "jurisdictionCode": "GN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q14917303",
+        "title": "Prime Minister of Guinea",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-02-27",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Bah Oury",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "gn-wikidata-q22209348"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "gn-wikidata-q22209348"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

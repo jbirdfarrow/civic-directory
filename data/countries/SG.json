@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "SG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "sg-wikidata-q983752",
+      "name": "Wikidata: Tharman Shanmugaratnam",
+      "url": "https://www.wikidata.org/wiki/Q983752",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Singapore (Q334), rank ontology#preferred, start 2023-09-14"
+    },
+    {
+      "id": "sg-wikidata-q6504758",
+      "name": "Wikidata: Lawrence Wong",
+      "url": "https://www.wikidata.org/wiki/Q6504758",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Singapore (Q334), rank ontology#preferred, start 2024-05-15"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "sg-head-of-state-1",
+      "jurisdictionCode": "SG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q39021",
+        "title": "President of Singapore",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2023-09-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tharman Shanmugaratnam",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sg-wikidata-q983752"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sg-wikidata-q983752"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "sg-head-of-government-1",
+      "jurisdictionCode": "SG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q866756",
+        "title": "Prime Minister of Singapore",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-05-15",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Lawrence Wong",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "sg-wikidata-q6504758"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "sg-wikidata-q6504758"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

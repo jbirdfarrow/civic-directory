@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "KG",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "kg-wikidata-q25597826",
+      "name": "Wikidata: Sadyr Japarov",
+      "url": "https://www.wikidata.org/wiki/Q25597826",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Kyrgyzstan (Q813), rank ontology#preferred, start 2021-01-28"
+    },
+    {
+      "id": "kg-wikidata-q112703041",
+      "name": "Wikidata: Adylbek Kasymaliev",
+      "url": "https://www.wikidata.org/wiki/Q112703041",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Kyrgyzstan (Q813), rank ontology#normal, start 2024-12-16"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "kg-head-of-state-1",
+      "jurisdictionCode": "KG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q853036",
+        "title": "President of Kyrgyzstan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-01-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sadyr Japarov",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kg-wikidata-q25597826"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kg-wikidata-q25597826"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "kg-head-of-government-1",
+      "jurisdictionCode": "KG",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q2333371",
+        "title": "Prime Minister of Kyrgyzstan",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2024-12-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Adylbek Kasymaliev",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "kg-wikidata-q112703041"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "kg-wikidata-q112703041"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

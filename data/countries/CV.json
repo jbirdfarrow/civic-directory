@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "CV",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "cv-wikidata-q57649",
+      "name": "Wikidata: José Maria Neves",
+      "url": "https://www.wikidata.org/wiki/Q57649",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Cape Verde (Q1011), rank ontology#preferred, start 2021-11-09"
+    },
+    {
+      "id": "cv-wikidata-q139594211",
+      "name": "Wikidata: Francisco Carvalho",
+      "url": "https://www.wikidata.org/wiki/Q139594211",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Cape Verde (Q1011), rank ontology#preferred, start 2026-06-19"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "cv-head-of-state-1",
+      "jurisdictionCode": "CV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19058382",
+        "title": "President of Cape Verde",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2021-11-09",
+        "termEnd": null
+      },
+      "person": {
+        "name": "José Maria Neves",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cv-wikidata-q57649"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cv-wikidata-q57649"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "cv-head-of-government-1",
+      "jurisdictionCode": "CV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30100568",
+        "title": "Prime Minister of Cabo Verde",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2026-06-19",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Francisco Carvalho",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "cv-wikidata-q139594211"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "cv-wikidata-q139594211"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BA",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ba-wikidata-q13081568",
+      "name": "Wikidata: Denis Bećirović",
+      "url": "https://www.wikidata.org/wiki/Q13081568",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Bosnia and Herzegovina (Q225), rank ontology#preferred, start 2022-11-16"
+    },
+    {
+      "id": "ba-wikidata-q5528031",
+      "name": "Wikidata: Željka Cvijanović",
+      "url": "https://www.wikidata.org/wiki/Q5528031",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Bosnia and Herzegovina (Q225), rank ontology#preferred, start 2022-11-16"
+    },
+    {
+      "id": "ba-wikidata-q297825",
+      "name": "Wikidata: Željko Komšić",
+      "url": "https://www.wikidata.org/wiki/Q297825",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Bosnia and Herzegovina (Q225), rank ontology#preferred, start 2022-11-16"
+    },
+    {
+      "id": "ba-wikidata-q387491",
+      "name": "Wikidata: Borjana Krišto",
+      "url": "https://www.wikidata.org/wiki/Q387491",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Bosnia and Herzegovina (Q225), rank ontology#preferred, start 2022-12-28"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ba-head-of-state-1",
+      "jurisdictionCode": "BA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q844944",
+        "title": "Presidency of Bosnia and Herzegovina",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-11-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Denis Bećirović",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ba-wikidata-q13081568"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ba-wikidata-q13081568"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ba-head-of-state-2",
+      "jurisdictionCode": "BA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q844944",
+        "title": "Presidency of Bosnia and Herzegovina",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-11-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Željka Cvijanović",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ba-wikidata-q5528031"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ba-wikidata-q5528031"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ba-head-of-state-3",
+      "jurisdictionCode": "BA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q844944",
+        "title": "Presidency of Bosnia and Herzegovina",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-11-16",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Željko Komšić",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ba-wikidata-q297825"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ba-wikidata-q297825"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ba-head-of-government-1",
+      "jurisdictionCode": "BA",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q16020744",
+        "title": "Chairman of the Council of Ministers of Bosnia and Herzegovina",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-12-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Borjana Krišto",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ba-wikidata-q387491"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ba-wikidata-q387491"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}

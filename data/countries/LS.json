@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "LS",
+  "generatedAt": "2026-10-20T19:54:39Z",
+  "sources": [
+    {
+      "id": "ls-wikidata-q57537",
+      "name": "Wikidata: Letsie III of Lesotho",
+      "url": "https://www.wikidata.org/wiki/Q57537",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P35 on Lesotho (Q1013), rank ontology#preferred, start 1996-02-07"
+    },
+    {
+      "id": "ls-wikidata-q114588964",
+      "name": "Wikidata: Sam Matekane",
+      "url": "https://www.wikidata.org/wiki/Q114588964",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-10-20T19:54:39Z",
+      "archivedUrl": null,
+      "notes": "P6 on Lesotho (Q1013), rank ontology#preferred, start 2022-10-28"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ls-head-of-state-1",
+      "jurisdictionCode": "LS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q41542585",
+        "title": "King of Lesotho",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "1996-02-07",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Letsie III of Lesotho",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ls-wikidata-q57537"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ls-wikidata-q57537"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ls-head-of-government-1",
+      "jurisdictionCode": "LS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q30101454",
+        "title": "Prime Minister of Lesotho",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-10-28",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sam Matekane",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ls-wikidata-q114588964"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-20T19:54:39Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ls-wikidata-q114588964"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    }
+  ]
+}
