@@ -21,7 +21,7 @@ const SPARQL = 'https://query.wikidata.org/sparql';
 const UA = 'civic-directory-sync/1.1 (https://github.com/jbirdfarrow/civic-directory)';
 
 const qid = uri => (uri || '').split('/').pop();
-const norm = s => (s || '').normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z ]/g, ' ').replace(/\s+/g, ' ').trim();
+const norm = s => (s || '').normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/['‘’ʻʼ`]/g, '').toLowerCase().replace(/[^a-z ]/g, ' ').replace(/\s+/g, ' ').trim();
 const sameName = (a, b) => {
   const x = norm(a).split(' ').filter(w => w.length > 2), y = new Set(norm(b).split(' '));
   return x.length > 0 && x.filter(w => y.has(w)).length >= Math.min(2, x.length);
