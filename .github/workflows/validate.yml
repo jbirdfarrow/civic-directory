@@ -1,0 +1,40 @@
+name: Validate directory
+
+# Runs on every change. Blocks bad data, then rebuilds data/index.json,
+# which the Civic Lookup app reads to decide which countries are connected.
+on:
+  push:
+    branches: [main]
+    paths: ['data/countries/**', 'schema/**', 'lib/**', 'tools/**']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: directory-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - name: Validate every country file
+        run: node tools/validate-all.mjs
+      - name: Rebuild index
+        run: node tools/build-index.mjs
+      - name: Commit index if it changed
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet -- data/index.json; then echo "Index unchanged"; exit 0; fi
+          git config user.name "civic-directory-bot"
+          git config user.email "civic-directory-bot@users.noreply.github.com"
+          git add data/index.json
+          git commit -m "Rebuild index"
+          git push

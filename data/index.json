@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "countries": {
+    "BB": {
+      "records": 4,
+      "verified": 0,
+      "unverified": 4,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 4,
+      "wikidataOnly": 0,
+      "nextReviewBy": null
+    },
+    "FJ": {
+      "records": 3,
+      "verified": 0,
+      "unverified": 3,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 3,
+      "wikidataOnly": 0,
+      "nextReviewBy": null
+    },
+    "JM": {
+      "records": 4,
+      "verified": 0,
+      "unverified": 4,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 4,
+      "wikidataOnly": 0,
+      "nextReviewBy": null
+    },
+    "MV": {
+      "records": 3,
+      "verified": 0,
+      "unverified": 3,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 3,
+      "wikidataOnly": 0,
+      "nextReviewBy": null
+    },
+    "WS": {
+      "records": 3,
+      "verified": 0,
+      "unverified": 3,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 3,
+      "wikidataOnly": 0,
+      "nextReviewBy": null
+    }
+  }
+}

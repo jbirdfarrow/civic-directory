@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "WS",
+  "generatedAt": "2026-10-19T23:30:00Z",
+  "sources": [
+    {
+      "id": "ws-government-of-samoa-22",
+      "name": "Government of Samoa",
+      "url": "https://www.samoagovt.ws/2026/02/presentation-of-credentials-of-the-ambassador-of-the-republic-of-poland-to-the-independent-state-of-samoa/",
+      "sourceType": "government",
+      "publisher": "Government of Samoa",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Head of State of the Independent State of Samoa, Afioga Tuimaleali'ifano Va'aletoa Sualauvi II\""
+    },
+    {
+      "id": "ws-government-of-samoa-23",
+      "name": "Government of Samoa",
+      "url": "https://www.samoagovt.ws/contact/",
+      "sourceType": "government",
+      "publisher": "Government of Samoa",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "ws-government-of-samoa-24",
+      "name": "Government of Samoa",
+      "url": "https://www.samoagovt.ws/directories/pm-laauli_profile/",
+      "sourceType": "government",
+      "publisher": "Government of Samoa",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Prime Minister | Palemia ... Hon. Laaulialemalietoa Leuatea Polataivao Fosi Schmidt\""
+    },
+    {
+      "id": "ws-legislative-assembly-of-samoa-25",
+      "name": "Legislative Assembly of Samoa",
+      "url": "https://palemene.ws/office-of-the-speaker/",
+      "sourceType": "legislature",
+      "publisher": "Legislative Assembly of Samoa",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Afioga Hon. AUAPAAU MULIPOLA ALOITAFUA MULIPOLA ... Hon. Speaker of the Parliament of Samoa\""
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "ws-head-of-state",
+      "jurisdictionCode": "WS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Head of State",
+        "localTitle": "O le Ao o le Malo",
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Tuimalealiifano Vaaletoa Sualauvi II",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "email",
+          "value": "presssecretariat@samoa.ws",
+          "label": null,
+          "sourceId": "ws-government-of-samoa-23"
+        },
+        {
+          "type": "phone",
+          "value": "+685 24799",
+          "label": null,
+          "sourceId": "ws-government-of-samoa-23"
+        }
+      ],
+      "sourceIds": [
+        "ws-government-of-samoa-22",
+        "ws-government-of-samoa-23"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ws-government-of-samoa-22"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. Newest official confirmation is February 2026. Second term believed to end around August 2027 (not officially confirmed)."
+      }
+    },
+    {
+      "id": "ws-prime-minister",
+      "jurisdictionCode": "WS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Prime Minister",
+        "localTitle": "Palemia",
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "La'aulialemalietoa Leuatea Polāta'ivao Fosi Schmidt",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "email",
+          "value": "presssecretariat@samoa.ws",
+          "label": null,
+          "sourceId": "ws-government-of-samoa-23"
+        },
+        {
+          "type": "phone",
+          "value": "+685 24799",
+          "label": null,
+          "sourceId": "ws-government-of-samoa-23"
+        }
+      ],
+      "sourceIds": [
+        "ws-government-of-samoa-24",
+        "ws-government-of-samoa-23"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ws-government-of-samoa-24"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. Newest official page is the profile modified 29 June 2026."
+      }
+    },
+    {
+      "id": "ws-speaker-of-the-legislative-assembly",
+      "jurisdictionCode": "WS",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Speaker of the Legislative Assembly",
+        "localTitle": "Fofoga Fetalai",
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Auapaau Mulipola Aloitafua Mulipola",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "email",
+          "value": "info@palemene.ws",
+          "label": null,
+          "sourceId": "ws-legislative-assembly-of-samoa-25"
+        }
+      ],
+      "sourceIds": [
+        "ws-legislative-assembly-of-samoa-25"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ws-legislative-assembly-of-samoa-25"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. Official pages spell the first title both Auapaau and Auuapaau."
+      }
+    }
+  ]
+}

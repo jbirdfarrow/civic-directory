@@ -1,0 +1,14 @@
+{
+  "name": "civic-directory",
+  "private": true,
+  "description": "Source-tracked directory of national officeholders for the IDEAS For Us Civic Lookup app",
+  "scripts": {
+    "validate": "node tools/validate-all.mjs",
+    "index": "node tools/build-index.mjs",
+    "wikidata": "node tools/wikidata-sync.mjs"
+  },
+  "dependencies": {
+    "ajv": "8.17.1",
+    "ajv-formats": "3.0.1"
+  }
+}

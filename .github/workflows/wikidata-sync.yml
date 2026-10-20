@@ -1,0 +1,40 @@
+name: Wikidata sync
+
+# Monthly, and on demand from the Actions tab. Fills countries that have no
+# official records with Wikidata names (labeled as Wikidata), and reports where
+# Wikidata disagrees with officially sourced records. Never overwrites official records.
+on:
+  schedule:
+    - cron: '17 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: directory-refs/heads/main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - name: Pull from Wikidata
+        run: node tools/wikidata-sync.mjs
+      - name: Validate
+        run: node tools/validate-all.mjs
+      - name: Rebuild index
+        run: node tools/build-index.mjs
+      - name: Commit changes
+        run: |
+          git add data reports
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "civic-directory-bot"
+          git config user.email "civic-directory-bot@users.noreply.github.com"
+          git commit -m "Wikidata sync $(date -u +%Y-%m-%d)"
+          git push

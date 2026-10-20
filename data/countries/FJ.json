@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "FJ",
+  "generatedAt": "2026-10-19T23:30:00Z",
+  "sources": [
+    {
+      "id": "fj-fijian-government-6",
+      "name": "Fijian Government",
+      "url": "https://www.fiji.gov.fj/fijis-national-statement-by-his-excellency-ratu-naiqama-lalabalavu-president-of-the-republic-of-fiji/",
+      "sourceType": "government",
+      "publisher": "Fijian Government",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"HIS EXCELLENCY RATU NAIQAMA LALABALAVU, PRESIDENT OF THE REPUBLIC OF FIJI\""
+    },
+    {
+      "id": "fj-fijian-government-7",
+      "name": "Fijian Government",
+      "url": "https://www.fiji.gov.fj/national-referendum-set-for-9-december-2026/",
+      "sourceType": "government",
+      "publisher": "Fijian Government",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Prime Minister Hon. Sitiveni Rabuka has announced\""
+    },
+    {
+      "id": "fj-pmofficegovfj-contact-page-8",
+      "name": "pmoffice.gov.fj contact page",
+      "url": "https://www.pmoffice.gov.fj/",
+      "sourceType": "government",
+      "publisher": "pmoffice.gov.fj contact page",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "fj-parliament-of-the-republic-of-fiji-9",
+      "name": "Parliament of the Republic of Fiji",
+      "url": "https://www.parliament.gov.fj/speaker-of-parliament/",
+      "sourceType": "legislature",
+      "publisher": "Parliament of the Republic of Fiji",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"was elected Speaker of the Fijian Parliament on 12 November 2024\""
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "fj-president",
+      "jurisdictionCode": "FJ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "President",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Ratu Naiqama Lalabalavu",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "fj-fijian-government-6"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fj-fijian-government-6"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    },
+    {
+      "id": "fj-prime-minister",
+      "jurisdictionCode": "FJ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Prime Minister",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sitiveni Rabuka",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "email",
+          "value": "clientservices2@pmoffice.gov.fj",
+          "label": null,
+          "sourceId": "fj-pmofficegovfj-contact-page-8"
+        },
+        {
+          "type": "phone",
+          "value": "+679 3211 300",
+          "label": null,
+          "sourceId": "fj-pmofficegovfj-contact-page-8"
+        },
+        {
+          "type": "website",
+          "value": "https://www.pmoffice.gov.fj/",
+          "label": null,
+          "sourceId": "fj-pmofficegovfj-contact-page-8"
+        }
+      ],
+      "sourceIds": [
+        "fj-fijian-government-7",
+        "fj-pmofficegovfj-contact-page-8"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fj-fijian-government-7"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. General election due by 6 February 2027; this office may change."
+      }
+    },
+    {
+      "id": "fj-speaker-of-parliament",
+      "jurisdictionCode": "FJ",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Speaker of Parliament",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Filimone Jitoko",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "email",
+          "value": "info@legislature.gov.fj",
+          "label": null,
+          "sourceId": "fj-parliament-of-the-republic-of-fiji-9"
+        },
+        {
+          "type": "phone",
+          "value": "+679 322 5600",
+          "label": null,
+          "sourceId": "fj-parliament-of-the-republic-of-fiji-9"
+        }
+      ],
+      "sourceIds": [
+        "fj-parliament-of-the-republic-of-fiji-9"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fj-parliament-of-the-republic-of-fiji-9"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    }
+  ]
+}

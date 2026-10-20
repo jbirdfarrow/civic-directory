@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "BB",
+  "generatedAt": "2026-10-19T23:30:00Z",
+  "sources": [
+    {
+      "id": "bb-government-of-barbados-official-gazette-1",
+      "name": "Government of Barbados Official Gazette",
+      "url": "https://governmentprintery.gov.bb/?p=4382",
+      "sourceType": "government",
+      "publisher": "Government of Barbados Official Gazette",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"His Excellency The Most Honourable Jeffrey Davidson Bostic, F.B., M.V.O., President of Barbados\""
+    },
+    {
+      "id": "bb-parliament-of-barbados-2",
+      "name": "Parliament of Barbados",
+      "url": "https://www.barbadosparliament.com/page_content/show_content/9",
+      "sourceType": "legislature",
+      "publisher": "Parliament of Barbados",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Mia A. Mottley (Prime Minister)\""
+    },
+    {
+      "id": "bb-pmogovbb-contact-page-3",
+      "name": "pmo.gov.bb contact page",
+      "url": "https://pmo.gov.bb/contact-us/",
+      "sourceType": "government",
+      "publisher": "pmo.gov.bb contact page",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "bb-parliament-of-barbados-4",
+      "name": "Parliament of Barbados",
+      "url": "https://www.barbadosparliament.com/main_page_content/show_content/10",
+      "sourceType": "legislature",
+      "publisher": "Parliament of Barbados",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "bb-parliament-of-barbados-5",
+      "name": "Parliament of Barbados",
+      "url": "https://www.barbadosparliament.com/page_content/show_content/79",
+      "sourceType": "legislature",
+      "publisher": "Parliament of Barbados",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"His Honour Senator the Most Hon. Reginald R. FARLEY ... President of the Senate\""
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "bb-president-of-barbados",
+      "jurisdictionCode": "BB",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "President of Barbados",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Jeffrey Davidson Bostic",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "bb-government-of-barbados-official-gazette-1"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bb-government-of-barbados-official-gazette-1"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. Gazette notice dated 2 July 2026. Parliament's Heads of State page is out of date."
+      }
+    },
+    {
+      "id": "bb-prime-minister",
+      "jurisdictionCode": "BB",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Prime Minister",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "appointed",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mia Amor Mottley",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "phone",
+          "value": "+1-246-535-5300",
+          "label": null,
+          "sourceId": "bb-pmogovbb-contact-page-3"
+        },
+        {
+          "type": "website",
+          "value": "https://pmo.gov.bb/contact-us/",
+          "label": null,
+          "sourceId": "bb-pmogovbb-contact-page-3"
+        }
+      ],
+      "sourceIds": [
+        "bb-parliament-of-barbados-2",
+        "bb-pmogovbb-contact-page-3"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bb-parliament-of-barbados-2"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    },
+    {
+      "id": "bb-speaker-of-the-house-of-assembly",
+      "jurisdictionCode": "BB",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Speaker of the House of Assembly",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Arthur E. Holder",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "email",
+          "value": "clerk@barbadosparliament.com",
+          "label": null,
+          "sourceId": "bb-parliament-of-barbados-4"
+        },
+        {
+          "type": "contact-form",
+          "value": "https://www.barbadosparliament.com/main_page_content/show_content/10",
+          "label": null,
+          "sourceId": "bb-parliament-of-barbados-4"
+        }
+      ],
+      "sourceIds": [
+        "bb-parliament-of-barbados-2",
+        "bb-parliament-of-barbados-4"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bb-parliament-of-barbados-2"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    },
+    {
+      "id": "bb-president-of-the-senate",
+      "jurisdictionCode": "BB",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "President of the Senate",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Reginald R. Farley",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "email",
+          "value": "clerk@barbadosparliament.com",
+          "label": null,
+          "sourceId": "bb-parliament-of-barbados-4"
+        },
+        {
+          "type": "contact-form",
+          "value": "https://www.barbadosparliament.com/main_page_content/show_content/10",
+          "label": null,
+          "sourceId": "bb-parliament-of-barbados-4"
+        }
+      ],
+      "sourceIds": [
+        "bb-parliament-of-barbados-5",
+        "bb-parliament-of-barbados-4"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "bb-parliament-of-barbados-5"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    }
+  ]
+}

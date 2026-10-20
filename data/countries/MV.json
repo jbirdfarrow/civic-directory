@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "MV",
+  "generatedAt": "2026-10-19T23:30:00Z",
+  "sources": [
+    {
+      "id": "mv-the-presidents-office-maldives-18",
+      "name": "The President's Office, Maldives",
+      "url": "https://presidency.gov.mv/",
+      "sourceType": "government",
+      "publisher": "The President's Office, Maldives",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"President Dr Mohamed Muizzu\""
+    },
+    {
+      "id": "mv-the-presidents-office-maldives-19",
+      "name": "The President's Office, Maldives",
+      "url": "https://presidency.gov.mv/Home/Contact/6",
+      "sourceType": "government",
+      "publisher": "The President's Office, Maldives",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "mv-the-presidents-office-maldives-20",
+      "name": "The President's Office, Maldives",
+      "url": "https://blogs.presidency.gov.mv/daily-blogs/speaker-addresses-the-152nd-assembly-of-the-inter-parliamentary-union",
+      "sourceType": "government",
+      "publisher": "The President's Office, Maldives",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Abdul Raheem Abdulla, MP, Speaker of the People's Majlis\""
+    },
+    {
+      "id": "mv-majlisgovmv-contact-page-21",
+      "name": "majlis.gov.mv contact page",
+      "url": "https://majlis.gov.mv/en",
+      "sourceType": "legislature",
+      "publisher": "majlis.gov.mv contact page",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "mv-president",
+      "jurisdictionCode": "MV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "President",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Mohamed Muizzu",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "phone",
+          "value": "+960 332 3701",
+          "label": null,
+          "sourceId": "mv-the-presidents-office-maldives-19"
+        },
+        {
+          "type": "contact-form",
+          "value": "https://presidency.gov.mv/Home/Contact/6",
+          "label": null,
+          "sourceId": "mv-the-presidents-office-maldives-19"
+        }
+      ],
+      "sourceIds": [
+        "mv-the-presidents-office-maldives-18",
+        "mv-the-presidents-office-maldives-19"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mv-the-presidents-office-maldives-18"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    },
+    {
+      "id": "mv-vice-president",
+      "jurisdictionCode": "MV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Vice President",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Hussain Mohamed Latheef",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "phone",
+          "value": "+960 332 3701",
+          "label": null,
+          "sourceId": "mv-the-presidents-office-maldives-19"
+        },
+        {
+          "type": "contact-form",
+          "value": "https://presidency.gov.mv/Home/Contact/6",
+          "label": null,
+          "sourceId": "mv-the-presidents-office-maldives-19"
+        }
+      ],
+      "sourceIds": [
+        "mv-the-presidents-office-maldives-18",
+        "mv-the-presidents-office-maldives-19"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mv-the-presidents-office-maldives-18"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    },
+    {
+      "id": "mv-speaker-of-the-peoples-majlis",
+      "jurisdictionCode": "MV",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Speaker of the People's Majlis",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Abdul Raheem Abdulla",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "website",
+          "value": "https://majlis.gov.mv/en",
+          "label": null,
+          "sourceId": "mv-majlisgovmv-contact-page-21"
+        }
+      ],
+      "sourceIds": [
+        "mv-the-presidents-office-maldives-20",
+        "mv-majlisgovmv-contact-page-21"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "mv-the-presidents-office-maldives-20"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. Newest official confirmation is April 2026. Majlis site pages were stale or failed to load."
+      }
+    }
+  ]
+}

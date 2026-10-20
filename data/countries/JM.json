@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 2,
+  "jurisdictionCode": "JM",
+  "generatedAt": "2026-10-19T23:30:00Z",
+  "sources": [
+    {
+      "id": "jm-jamaica-information-service-10",
+      "name": "Jamaica Information Service",
+      "url": "https://jis.gov.jm/six-outstanding-jamaicans-to-be-conferred-with-oj-on-oct-19/",
+      "sourceType": "government",
+      "publisher": "Jamaica Information Service",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Governor-General, His Excellency the Most Hon. Sir Patrick Allen\""
+    },
+    {
+      "id": "jm-kingshousegovjm-contact-page-11",
+      "name": "kingshouse.gov.jm contact page",
+      "url": "https://kingshouse.gov.jm/",
+      "sourceType": "government",
+      "publisher": "kingshouse.gov.jm contact page",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "jm-jamaica-information-service-12",
+      "name": "Jamaica Information Service",
+      "url": "https://jis.gov.jm/prime-minister-dr-the-most-honourable-andrew-holness-announces-new-cabinet-and-government-senate-appointments/",
+      "sourceType": "government",
+      "publisher": "Jamaica Information Service",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Prime Minister, Minister of Defence and Minister of Economic Growth and Infrastructure Development – Dr. the Most Honourable Andrew Holness\""
+    },
+    {
+      "id": "jm-opmgovjm-contact-page-13",
+      "name": "opm.gov.jm contact page",
+      "url": "https://opm.gov.jm/contact-us/",
+      "sourceType": "government",
+      "publisher": "opm.gov.jm contact page",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "jm-jamaica-information-service-14",
+      "name": "Jamaica Information Service",
+      "url": "https://jis.gov.jm/house-speaker-champions-modern-simpler-parliamentary-rules/",
+      "sourceType": "government",
+      "publisher": "Jamaica Information Service",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"Speaker of the House of Representatives, the Most Hon. Juliet Holness\""
+    },
+    {
+      "id": "jm-japarliamentgovjm-contact-page-15",
+      "name": "japarliament.gov.jm contact page",
+      "url": "https://japarliament.gov.jm/index.php?option=com_content&view=article&id=8&Itemid=10",
+      "sourceType": "legislature",
+      "publisher": "japarliament.gov.jm contact page",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "jm-japarliamentgovjm-contact-page-16",
+      "name": "japarliament.gov.jm contact page",
+      "url": "https://japarliament.gov.jm/",
+      "sourceType": "legislature",
+      "publisher": "japarliament.gov.jm contact page",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Contact details only"
+    },
+    {
+      "id": "jm-jamaica-information-service-17",
+      "name": "Jamaica Information Service",
+      "url": "https://jis.gov.jm/priority-1-schools-damaged-by-hurricane-melissa-to-be-fully-repaired-this-year/",
+      "sourceType": "government",
+      "publisher": "Jamaica Information Service",
+      "language": "en",
+      "license": null,
+      "retrievedAt": "2026-10-19T23:30:00Z",
+      "archivedUrl": null,
+      "notes": "Quote: \"President of the Senate, Hon. Thomas Tavares-Finson\""
+    }
+  ],
+  "officeholders": [
+    {
+      "id": "jm-governor-general",
+      "jurisdictionCode": "JM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Governor-General",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "appointed",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Sir Patrick Allen",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "website",
+          "value": "https://kingshouse.gov.jm/",
+          "label": null,
+          "sourceId": "jm-kingshousegovjm-contact-page-11"
+        }
+      ],
+      "sourceIds": [
+        "jm-jamaica-information-service-10",
+        "jm-kingshousegovjm-contact-page-11"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jm-jamaica-information-service-10"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. Represents King Charles III, Jamaica's head of state."
+      }
+    },
+    {
+      "id": "jm-prime-minister",
+      "jurisdictionCode": "JM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Prime Minister",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "appointed",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Andrew Holness",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "phone",
+          "value": "+1 876 927 9941",
+          "label": null,
+          "sourceId": "jm-opmgovjm-contact-page-13"
+        },
+        {
+          "type": "contact-form",
+          "value": "https://opm.gov.jm/contact-us/",
+          "label": null,
+          "sourceId": "jm-opmgovjm-contact-page-13"
+        }
+      ],
+      "sourceIds": [
+        "jm-jamaica-information-service-12",
+        "jm-opmgovjm-contact-page-13"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jm-jamaica-information-service-12"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    },
+    {
+      "id": "jm-speaker-of-the-house-of-representatives",
+      "jurisdictionCode": "JM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "Speaker of the House of Representatives",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Juliet Holness",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "phone",
+          "value": "+1 876 922 0200",
+          "label": null,
+          "sourceId": "jm-japarliamentgovjm-contact-page-15"
+        },
+        {
+          "type": "website",
+          "value": "https://japarliament.gov.jm/",
+          "label": null,
+          "sourceId": "jm-japarliamentgovjm-contact-page-16"
+        }
+      ],
+      "sourceIds": [
+        "jm-jamaica-information-service-14",
+        "jm-japarliamentgovjm-contact-page-15",
+        "jm-japarliamentgovjm-contact-page-16"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jm-jamaica-information-service-14"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified."
+      }
+    },
+    {
+      "id": "jm-president-of-the-senate",
+      "jurisdictionCode": "JM",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": null,
+        "title": "President of the Senate",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "elected",
+        "termStart": null,
+        "termEnd": null
+      },
+      "person": {
+        "name": "Thomas Tavares-Finson",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [
+        {
+          "type": "phone",
+          "value": "+1 876 922 0200",
+          "label": null,
+          "sourceId": "jm-japarliamentgovjm-contact-page-15"
+        },
+        {
+          "type": "website",
+          "value": "https://japarliament.gov.jm/",
+          "label": null,
+          "sourceId": "jm-japarliamentgovjm-contact-page-16"
+        }
+      ],
+      "sourceIds": [
+        "jm-jamaica-information-service-17",
+        "jm-japarliamentgovjm-contact-page-15",
+        "jm-japarliamentgovjm-contact-page-16"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-10-19T23:30:00Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "jm-jamaica-information-service-17"
+        ],
+        "reviewBy": null,
+        "notes": "Matched to an official page by Claude on 2026-10-19. Needs a second-person check before it can be marked verified. Newest official confirmation is February 2026."
+      }
+    }
+  ]
+}
