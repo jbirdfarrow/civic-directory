@@ -15,24 +15,10 @@ const DIR = 'data/countries';
 const ROLE_TITLES = { 'head-of-state': 'Head of State', 'head-of-government': 'Head of Government' };
 const MAX_PER_ROLE = 3; // more than this usually means stale Wikidata statements
 
-const QUERY = `
-SELECT ?code ?country ?countryLabel ?role ?office ?officeLabel ?person ?personLabel ?rank ?start WHERE {
-  ?country p:P297 ?cs . ?cs ps:P297 ?code .
-  FILTER NOT EXISTS { ?cs pq:P582 [] }
-  ?cs wikibase:rank ?crank . FILTER(?crank != wikibase:DeprecatedRank)
-  FILTER NOT EXISTS { ?country wdt:P576 [] }
-  {
-    ?country p:P35 ?st . ?st ps:P35 ?person . BIND("head-of-state" AS ?role)
-    OPTIONAL { ?country wdt:P1906 ?office }
-  } UNION {
-    ?country p:P6 ?st . ?st ps:P6 ?person . BIND("head-of-government" AS ?role)
-    OPTIONAL { ?country wdt:P1313 ?office }
-  }
-  ?st wikibase:rank ?rank . FILTER(?rank != wikibase:DeprecatedRank)
-  FILTER NOT EXISTS { ?st pq:P582 [] }
-  OPTIONAL { ?st pq:P580 ?start }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-}`;
+// Small queries in batches: one large query times out on the public endpoint.
+const BATCH = 50;
+const SPARQL = 'https://query.wikidata.org/sparql';
+const UA = 'civic-directory-sync/1.1 (https://github.com/jbirdfarrow/civic-directory)';
 
 const qid = uri => (uri || '').split('/').pop();
 const norm = s => (s || '').normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z ]/g, ' ').replace(/\s+/g, ' ').trim();
@@ -41,19 +27,75 @@ const sameName = (a, b) => {
   return x.length > 0 && x.filter(w => y.has(w)).length >= Math.min(2, x.length);
 };
 
+async function sparql(query) {
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    const response = await fetch(SPARQL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded', Accept: 'application/sparql-results+json', 'User-Agent': UA },
+      body: new URLSearchParams({ query })
+    });
+    if (response.ok) return (await response.json()).results.bindings;
+    const text = (await response.text()).slice(0, 200);
+    if (attempt === 4 || ![429, 500, 502, 503, 504].includes(response.status)) throw new Error(`Wikidata query failed: ${response.status} ${text}`);
+    const wait = Number(response.headers.get('retry-after')) * 1000 || attempt * 5000;
+    console.log(`Wikidata ${response.status}, retrying in ${wait / 1000}s`);
+    await new Promise(r => setTimeout(r, wait));
+  }
+}
+
+const chunks = (list, n) => Array.from({ length: Math.ceil(list.length / n) }, (_, i) => list.slice(i * n, i * n + n));
+const lit = (value) => ({ value });
+
+// Returns rows shaped like a single SPARQL result: code, country, countryLabel, role, office, officeLabel, person, personLabel, rank, start.
 async function fetchRows() {
   if (process.env.WIKIDATA_FIXTURE) return JSON.parse(readFileSync(process.env.WIKIDATA_FIXTURE, 'utf8')).results.bindings;
-  const response = await fetch('https://query.wikidata.org/sparql', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/x-www-form-urlencoded',
-      'Accept': 'application/sparql-results+json',
-      'User-Agent': 'civic-directory-sync/1.0 (https://github.com/jbirdfarrow/civic-directory)'
-    },
-    body: new URLSearchParams({ query: QUERY })
+
+  // 1. Current countries and territories with an ISO code. If two items share a code, keep the older (lower) Q-id.
+  const byCode = new Map();
+  for (const b of await sparql('SELECT DISTINCT ?country ?code WHERE { ?country wdt:P297 ?code . FILTER NOT EXISTS { ?country wdt:P576 [] } }')) {
+    const code = b.code.value.toUpperCase(), q = qid(b.country.value);
+    const prev = byCode.get(code);
+    if (!prev || Number(q.slice(1)) < Number(prev.slice(1))) byCode.set(code, q);
+  }
+  const countryOf = new Map([...byCode].map(([code, q]) => [q, code]));
+  const items = [...countryOf.keys()];
+  console.log(`${items.length} countries and territories`);
+
+  // 2. Current holders (no end date, not deprecated) and the office each country names for the role.
+  const roles = [['head-of-state', 'P35', 'P1906'], ['head-of-government', 'P6', 'P1313']];
+  const raw = [];
+  const offices = new Map();
+  for (const group of chunks(items, BATCH)) {
+    const values = group.map(q => 'wd:' + q).join(' ');
+    for (const [role, prop, officeProp] of roles) {
+      for (const b of await sparql(`SELECT ?country ?person ?rank ?start WHERE { VALUES ?country { ${values} } ?country p:${prop} ?st . ?st ps:${prop} ?person ; wikibase:rank ?rank . FILTER(?rank != wikibase:DeprecatedRank) FILTER NOT EXISTS { ?st pq:P582 ?end } OPTIONAL { ?st pq:P580 ?start } }`)) {
+        raw.push({ role, country: qid(b.country.value), person: qid(b.person.value), rank: b.rank.value, start: b.start ? b.start.value : null });
+      }
+      for (const b of await sparql(`SELECT ?country ?office WHERE { VALUES ?country { ${values} } ?country wdt:${officeProp} ?office . }`)) {
+        offices.set(`${qid(b.country.value)}|${role}`, qid(b.office.value));
+      }
+    }
+  }
+
+  // 3. English labels for every country, person and office.
+  const ids = [...new Set(raw.flatMap(r => [r.country, r.person]).concat([...offices.values()]))];
+  const labels = new Map();
+  for (const group of chunks(ids, 200)) {
+    for (const b of await sparql(`SELECT ?item ?label WHERE { VALUES ?item { ${group.map(q => 'wd:' + q).join(' ')} } ?item rdfs:label ?label . FILTER(LANG(?label) = "en") }`)) {
+      labels.set(qid(b.item.value), b.label.value);
+    }
+  }
+  const entity = q => 'http://www.wikidata.org/entity/' + q;
+  return raw.map(r => {
+    const office = offices.get(`${r.country}|${r.role}`);
+    const row = {
+      code: lit(countryOf.get(r.country)), country: lit(entity(r.country)), countryLabel: lit(labels.get(r.country) || r.country),
+      role: lit(r.role), person: lit(entity(r.person)), personLabel: lit(labels.get(r.person) || r.person), rank: lit(r.rank)
+    };
+    if (office) { row.office = lit(entity(office)); row.officeLabel = lit(labels.get(office) || office); }
+    if (r.start) row.start = lit(r.start);
+    return row;
   });
-  if (!response.ok) throw new Error(`Wikidata query failed: ${response.status} ${await response.text()}`);
-  return (await response.json()).results.bindings;
 }
 
 function allowedCodes() {
