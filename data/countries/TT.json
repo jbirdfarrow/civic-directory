@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "jurisdictionCode": "TT",
-  "generatedAt": "2026-10-20T19:54:39Z",
+  "generatedAt": "2026-11-01T13:16:57Z",
   "sources": [
     {
       "id": "tt-wikidata-q97400315",
@@ -11,7 +11,7 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P35 on Trinidad and Tobago (Q754), rank ontology#normal, start 2023-03-20"
     },
@@ -23,7 +23,7 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P6 on Trinidad and Tobago (Q754), rank ontology#preferred, start 2025-05-01"
     }
@@ -54,7 +54,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,
@@ -71,8 +71,8 @@
       "subdivisionCode": null,
       "administrativeArea": null,
       "office": {
-        "id": "Q30101326",
-        "title": "Head of Government",
+        "id": "Q20530301",
+        "title": "Prime Minister of Trinidad and Tobago",
         "localTitle": null,
         "level": "national",
         "selectionMethod": "unknown",
@@ -90,7 +90,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
   "jurisdictionCode": "HU",
-  "generatedAt": "2026-10-20T19:54:39Z",
+  "generatedAt": "2026-11-01T13:16:57Z",
   "sources": [
     {
-      "id": "hu-wikidata-q28599854",
-      "name": "Wikidata: Tamás Sulyok",
-      "url": "https://www.wikidata.org/wiki/Q28599854",
+      "id": "hu-wikidata-q788903",
+      "name": "Wikidata: András Baka",
+      "url": "https://www.wikidata.org/wiki/Q788903",
       "sourceType": "wikidata",
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
-      "notes": "P35 on Hungary (Q28), rank ontology#normal, start 2024-03-05"
+      "notes": "P35 on Hungary (Q28), rank ontology#preferred, start 2026-08-19"
     },
     {
       "id": "hu-wikidata-q124488292",
@@ -23,7 +23,7 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P6 on Hungary (Q28), rank ontology#preferred, start 2026-05-09"
     }
@@ -40,26 +40,26 @@
         "localTitle": null,
         "level": "national",
         "selectionMethod": "unknown",
-        "termStart": "2024-03-05",
+        "termStart": "2026-08-19",
         "termEnd": null
       },
       "person": {
-        "name": "Tamás Sulyok",
+        "name": "András Baka",
         "localName": null,
         "languageCodes": []
       },
       "contacts": [],
       "sourceIds": [
-        "hu-wikidata-q28599854"
+        "hu-wikidata-q788903"
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,
         "evidenceSourceIds": [
-          "hu-wikidata-q28599854"
+          "hu-wikidata-q788903"
         ],
         "reviewBy": null,
         "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
@@ -90,7 +90,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,

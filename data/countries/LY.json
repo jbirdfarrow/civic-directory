@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "jurisdictionCode": "LY",
-  "generatedAt": "2026-10-20T19:54:39Z",
+  "generatedAt": "2026-11-01T13:16:57Z",
   "sources": [
     {
       "id": "ly-wikidata-q105319610",
@@ -11,19 +11,19 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P35 on Libya (Q1016), rank ontology#normal, start 2021-03-15"
     },
     {
       "id": "ly-wikidata-q105319569",
-      "name": "Wikidata: Abd al-Hamid Dbeibeh",
+      "name": "Wikidata: Abd al-Hamid Al-Dabiba",
       "url": "https://www.wikidata.org/wiki/Q105319569",
       "sourceType": "wikidata",
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P6 on Libya (Q1016), rank ontology#normal, start 2021-02-05"
     }
@@ -54,7 +54,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,
@@ -80,7 +80,7 @@
         "termEnd": null
       },
       "person": {
-        "name": "Abd al-Hamid Dbeibeh",
+        "name": "Abd al-Hamid Al-Dabiba",
         "localName": null,
         "languageCodes": []
       },
@@ -90,7 +90,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,

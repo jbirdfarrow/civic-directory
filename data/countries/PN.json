@@ -1,22 +1,70 @@
 {
   "schemaVersion": 2,
   "jurisdictionCode": "PN",
-  "generatedAt": "2026-10-20T19:54:39Z",
+  "generatedAt": "2026-11-01T13:16:57Z",
   "sources": [
     {
-      "id": "pn-wikidata-q75462006",
-      "name": "Wikidata: Charlene Warren-Peu",
-      "url": "https://www.wikidata.org/wiki/Q75462006",
+      "id": "pn-wikidata-q43274",
+      "name": "Wikidata: Charles III",
+      "url": "https://www.wikidata.org/wiki/Q43274",
       "sourceType": "wikidata",
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
-      "notes": "P6 on Pitcairn Islands (Q35672), rank ontology#normal, start 2020-01-01"
+      "notes": "P35 on Pitcairn Islands (Q35672), rank ontology#normal, start 2022-09-08"
+    },
+    {
+      "id": "pn-wikidata-q16215208",
+      "name": "Wikidata: Shawn Christian",
+      "url": "https://www.wikidata.org/wiki/Q16215208",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-11-01T13:16:57Z",
+      "archivedUrl": null,
+      "notes": "P6 on Pitcairn Islands (Q35672), rank ontology#preferred, start 2026-01-01"
     }
   ],
   "officeholders": [
+    {
+      "id": "pn-head-of-state-1",
+      "jurisdictionCode": "PN",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q9134365",
+        "title": "Monarch of the United Kingdom",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2022-09-08",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Charles III",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "pn-wikidata-q43274"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-11-01T13:16:57Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "pn-wikidata-q43274"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
     {
       "id": "pn-head-of-government-1",
       "jurisdictionCode": "PN",
@@ -28,26 +76,26 @@
         "localTitle": null,
         "level": "national",
         "selectionMethod": "unknown",
-        "termStart": "2020-01-01",
+        "termStart": "2026-01-01",
         "termEnd": null
       },
       "person": {
-        "name": "Charlene Warren-Peu",
+        "name": "Shawn Christian",
         "localName": null,
         "languageCodes": []
       },
       "contacts": [],
       "sourceIds": [
-        "pn-wikidata-q75462006"
+        "pn-wikidata-q16215208"
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,
         "evidenceSourceIds": [
-          "pn-wikidata-q75462006"
+          "pn-wikidata-q16215208"
         ],
         "reviewBy": null,
         "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."

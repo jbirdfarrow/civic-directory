@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "countries": {
     "AD": {
-      "records": 2,
+      "records": 3,
       "verified": 0,
-      "unverified": 2,
+      "unverified": 3,
       "stale": 0,
       "disputed": 0,
       "officialEvidence": 0,
-      "wikidataOnly": 2,
+      "wikidataOnly": 3,
       "nextReviewBy": null
     },
     "AE": {
@@ -339,6 +339,16 @@
       "disputed": 0,
       "officialEvidence": 0,
       "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "CC": {
+      "records": 1,
+      "verified": 0,
+      "unverified": 1,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 1,
       "nextReviewBy": null
     },
     "CD": {
@@ -672,13 +682,13 @@
       "nextReviewBy": null
     },
     "FR": {
-      "records": 1,
+      "records": 2,
       "verified": 0,
-      "unverified": 1,
+      "unverified": 2,
       "stale": 0,
       "disputed": 0,
       "officialEvidence": 0,
-      "wikidataOnly": 1,
+      "wikidataOnly": 2,
       "nextReviewBy": null
     },
     "GA": {
@@ -1682,13 +1692,13 @@
       "nextReviewBy": null
     },
     "PN": {
-      "records": 1,
+      "records": 2,
       "verified": 0,
-      "unverified": 1,
+      "unverified": 2,
       "stale": 0,
       "disputed": 0,
       "officialEvidence": 0,
-      "wikidataOnly": 1,
+      "wikidataOnly": 2,
       "nextReviewBy": null
     },
     "PR": {
@@ -2042,6 +2052,16 @@
       "nextReviewBy": null
     },
     "TJ": {
+      "records": 2,
+      "verified": 0,
+      "unverified": 2,
+      "stale": 0,
+      "disputed": 0,
+      "officialEvidence": 0,
+      "wikidataOnly": 2,
+      "nextReviewBy": null
+    },
+    "TK": {
       "records": 2,
       "verified": 0,
       "unverified": 2,

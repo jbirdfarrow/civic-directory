@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "jurisdictionCode": "AD",
-  "generatedAt": "2026-10-20T19:54:39Z",
+  "generatedAt": "2026-11-01T13:16:57Z",
   "sources": [
     {
       "id": "ad-wikidata-q93244592",
@@ -11,9 +11,21 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P35 on Andorra (Q228), rank ontology#preferred, start 2025-01-01"
+    },
+    {
+      "id": "ad-wikidata-q3052772",
+      "name": "Wikidata: Emmanuel Macron",
+      "url": "https://www.wikidata.org/wiki/Q3052772",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-11-01T13:16:57Z",
+      "archivedUrl": null,
+      "notes": "P35 on Andorra (Q228), rank ontology#preferred, start 2017-05-01"
     },
     {
       "id": "ad-wikidata-q21001195",
@@ -23,7 +35,7 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P6 on Andorra (Q228), rank ontology#preferred, start 2019-05-16"
     }
@@ -54,12 +66,48 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,
         "evidenceSourceIds": [
           "ad-wikidata-q93244592"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
+    {
+      "id": "ad-head-of-state-2",
+      "jurisdictionCode": "AD",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q19808845",
+        "title": "French co-prince of Andorra",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2017-05-01",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Emmanuel Macron",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "ad-wikidata-q3052772"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-11-01T13:16:57Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "ad-wikidata-q3052772"
         ],
         "reviewBy": null,
         "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
@@ -90,7 +138,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,

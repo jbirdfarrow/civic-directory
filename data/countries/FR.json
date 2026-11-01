@@ -1,8 +1,20 @@
 {
   "schemaVersion": 2,
   "jurisdictionCode": "FR",
-  "generatedAt": "2026-10-20T19:54:39Z",
+  "generatedAt": "2026-11-01T13:16:57Z",
   "sources": [
+    {
+      "id": "fr-wikidata-q3052772",
+      "name": "Wikidata: Emmanuel Macron",
+      "url": "https://www.wikidata.org/wiki/Q3052772",
+      "sourceType": "wikidata",
+      "publisher": "Wikidata",
+      "language": "en",
+      "license": "CC0-1.0",
+      "retrievedAt": "2026-11-01T13:16:57Z",
+      "archivedUrl": null,
+      "notes": "P35 on France (Q142), rank ontology#preferred, start 2017-05-14"
+    },
     {
       "id": "fr-wikidata-q20089181",
       "name": "Wikidata: Sébastien Lecornu",
@@ -11,12 +23,48 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P6 on France (Q142), rank ontology#preferred, start 2025-09-09"
     }
   ],
   "officeholders": [
+    {
+      "id": "fr-head-of-state-1",
+      "jurisdictionCode": "FR",
+      "subdivisionCode": null,
+      "administrativeArea": null,
+      "office": {
+        "id": "Q191954",
+        "title": "President of the French Republic",
+        "localTitle": null,
+        "level": "national",
+        "selectionMethod": "unknown",
+        "termStart": "2017-05-14",
+        "termEnd": null
+      },
+      "person": {
+        "name": "Emmanuel Macron",
+        "localName": null,
+        "languageCodes": []
+      },
+      "contacts": [],
+      "sourceIds": [
+        "fr-wikidata-q3052772"
+      ],
+      "verification": {
+        "status": "unverified",
+        "checkedAt": "2026-11-01T13:16:57Z",
+        "verifiedAt": null,
+        "verifiedBy": null,
+        "method": null,
+        "evidenceSourceIds": [
+          "fr-wikidata-q3052772"
+        ],
+        "reviewBy": null,
+        "notes": "From Wikidata. Needs an official government or parliament page and a second-person check before it can be verified."
+      }
+    },
     {
       "id": "fr-head-of-government-1",
       "jurisdictionCode": "FR",
@@ -42,7 +90,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,

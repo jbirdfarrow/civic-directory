@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "jurisdictionCode": "CY",
-  "generatedAt": "2026-10-20T19:54:39Z",
+  "generatedAt": "2026-11-01T13:16:57Z",
   "sources": [
     {
       "id": "cy-wikidata-q48905549",
@@ -11,7 +11,7 @@
       "publisher": "Wikidata",
       "language": "en",
       "license": "CC0-1.0",
-      "retrievedAt": "2026-10-20T19:54:39Z",
+      "retrievedAt": "2026-11-01T13:16:57Z",
       "archivedUrl": null,
       "notes": "P35 on Cyprus (Q229), rank ontology#normal, start 2023-02-12"
     }
@@ -24,7 +24,7 @@
       "administrativeArea": null,
       "office": {
         "id": "Q841760",
-        "title": "President of Cyprus",
+        "title": "Padre y esposo Coughlan",
         "localTitle": null,
         "level": "national",
         "selectionMethod": "unknown",
@@ -42,7 +42,7 @@
       ],
       "verification": {
         "status": "unverified",
-        "checkedAt": "2026-10-20T19:54:39Z",
+        "checkedAt": "2026-11-01T13:16:57Z",
         "verifiedAt": null,
         "verifiedBy": null,
         "method": null,
